@@ -7,12 +7,15 @@ in list and [discuss](https://github.com/Atarity/diy-synths/discussions)
 your building experience.
 
 ![DIY-synths-title](/diy-synths-title.jpg)
+1. [ATtiny Punk Console](https://github.com/noisio/ATtiny-Punk-Console) — ATtiny85 implementation of Atari Punk Console
 1. [Ambika](https://mutable-instruments.net/archive/) — Multi-voice, hybrid synthesizer. Descendant of Shruthi-1.
 1. [Anushri](https://mutable-instruments.net/archive/) — DIY digitally controlled analog monosynth.
 1. [Arpie](https://six4pix.com/product/arpie/) — Compact, highly-functional, MIDI arpeggiator.
+1. [BE2N](https://www.jolinlab.com/be2n/) — BE2N is a 22HP eurorack module with two specular Benjolins at its core.
 1. [Drone & Drama](https://github.com/bjc01/D-D_Teensy) — Simple drone synth based on Teensy.
 1. [DrumKid](https://github.com/mattybrad/drumkid) — Lo-fi aleatoric Arduino drum machine.
 1. [Echo Rockit](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1910&VPH=871) — Small, portable synth / effect processor.
+1. [Fasma Festival](https://tomashg.com/?p=1324) — Yet another Teensy drum machine with clock sync.
 1. [Kelpie](https://github.com/friedpies/kelpie-pocket-synth) — Portable polyphonic digital synthesizer.
 1. [Le Strum](https://github.com/hotchk155/Voici-Le-Strum) — Compact and very simple yet funny MIDI strummer.
 1. [Lil CMOS toolbox](https://github.com/diysynth/LIL-CMOS-TOOLBOX) — CMOS-based semi-modular synthesizer.
@@ -23,11 +26,11 @@ your building experience.
 1. [Meeblip Triode](https://github.com/MeeBlip/meeblip-triode) — Hackable monophonic synth based on atmega32. It consists of 2 PCBs stacked together.
 1. [Mega MIDI](https://github.com/AidanHockey5/MegaMIDI) — MIDI-compatible Sega Genesis/Megadrive Synthesizer with REAL sound chips.
 1. [Mixtape Alpha](http://wiki.openmusiclabs.com/wiki/MixtapeAlpha) — Credit-card sized Atmega328-based 4 voice synth.
-1. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) — An experimental physical interface for the NSynth algorithm.
+1. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) — An experimental physical interface for the NSynth algorithm. 
 1. [NTH synth](https://github.com/NTHSynth/NTH_DSP) — 8-bit hackable mono synth.
 1. [Nano minipops](https://github.com/NANOmodules/NANO-Minipops) — Korg minipops made around Arduino.
 1. [Noise Toaster](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1910&VPH=871) — Simple, full analog noise synth.
-1. [Norns shield](https://github.com/monome/norns-shield) — Norns is an open, dynamic instrument creation platform and musical computer.
+1. [Norns shield](https://github.com/monome/norns-shield) — Norns is an open, dynamic instrument creation platform and musical computer. 
 1. [OTTO](https://github.com/bitfieldaudio/OTTO) — Digital hardware groovebox, with synths, samplers, effects and a sequencer with an audio looper.
 1. [POLY555](https://github.com/oskitone/poly555) — Polyphonic, analog, square wave synth based on the _555_ timer chip.
 1. [Polaron](https://github.com/zueblin/Polaron) — Digital drum machine based on the Teensy 3.6.
@@ -46,4 +49,4 @@ your building experience.
 1. [ZeKit](https://github.com/Marzac/zekit) — 4 voice paraphonic synth.
 1. [Zynthian](https://zynthian.org/) — Open Platform for Sound Synthesis & Processing build on top of Raspberry Pi.
 1. [x0x heart](http://www.openmusiclabs.com/projects/x0x-heart/) — Heart of the infamous TB-303, surgically extracted to be transplanted into your designs.
-1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 drum synthesizer, with fully functional sequencer. 
+1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 synthesizer, with fully functional sequencer. 
