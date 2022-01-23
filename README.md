@@ -15,6 +15,7 @@ your building experience.
 1. [Drone & Drama](https://github.com/bjc01/D-D_Teensy) — Simple drone synth based on Teensy.
 1. [DrumKid](https://github.com/mattybrad/drumkid) — Lo-fi aleatoric Arduino drum machine.
 1. [Echo Rockit](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1910&VPH=871) — Small, portable synth / effect processor.
+1. [Faderbank 16n](https://github.com/16n-faderbank/16n) — 16 faders MIDI-controller which is compatible with modular world
 1. [Fasma Festival](https://tomashg.com/?p=1324) — Yet another Teensy drum machine with clock sync.
 1. [Kelpie](https://github.com/friedpies/kelpie-pocket-synth) — Portable polyphonic digital synthesizer.
 1. [Le Strum](https://github.com/hotchk155/Voici-Le-Strum) — Compact and very simple yet funny MIDI strummer.
@@ -32,6 +33,7 @@ your building experience.
 1. [Noise Toaster](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1910&VPH=871) — Simple, full analog noise synth.
 1. [Norns shield](https://github.com/monome/norns-shield) — Norns is an open, dynamic instrument creation platform and musical computer. 
 1. [OTTO](https://github.com/bitfieldaudio/OTTO) — Digital hardware groovebox, with synths, samplers, effects and a sequencer with an audio looper.
+1. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) — Open platform for ultimate MIDI control deck building
 1. [POLY555](https://github.com/oskitone/poly555) — Polyphonic, analog, square wave synth based on the _555_ timer chip.
 1. [Polaron](https://github.com/zueblin/Polaron) — Digital drum machine based on the Teensy 3.6.
 1. [Portable synth](https://github.com/prajwal1121/Portable-Synth) — OP-1 style portable groovebox based around Teensy 4.
@@ -40,6 +42,7 @@ your building experience.
 1. [Shruthi-1](https://mutable-instruments.net/archive/shruthi/build/) — Hybrid synthesiser with digital generators and swappable analog filter boards.
 1. [Sound Lab Mini-Synth](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1910&VPH=871) — Full analog legendary design by Ray Wilson.
 1. [Sound Lab Mini-Synth MkII](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1910&VPH=871) — Full analog Ray Wilson's synth. Descendant of Sound Lab Mini-Synth.
+1. [Teensy Audio FX](https://github.com/mattvenn/teensy-audio-fx) — Playable effects modeled on the Teenage Engineering PO series
 1. [Teensy Beats Shield](https://hackaday.io/project/161127-teensy-beats-shield) — Handheld audio sequencer. PO style.
 1. [Totoro 1-IC](https://syntherjack.net/totoro-1-ic-simple-synth/) — Cheap and easy to solder 2 oscillators synth.
 1. [WTPA2 (Where is the party at 2)](http://blog.narrat1ve.com/wtpa2/) — 8-bit audio sampler kit which does some stuff that no other samplers out there do.
