@@ -19,9 +19,13 @@ your building experience.
 1. [Fasma Festival](https://tomashg.com/?p=1324) — Yet another Teensy drum machine with clock sync.
 1. [Kelpie](https://github.com/friedpies/kelpie-pocket-synth) — Portable polyphonic digital synthesizer.
 1. [Le Strum](https://github.com/hotchk155/Voici-Le-Strum) — Compact and very simple yet funny MIDI strummer.
-1. [Lil CMOS toolbox](https://github.com/diysynth/LIL-CMOS-TOOLBOX) — CMOS-based semi-modular synthesizer.
+1. [Lil CMOS toolbox](https://github.com/diysynth/STANDALONE-DEVICES) — CMOS-based semi-modular synthesizer.
+1. [Lil' mono](https://github.com/diysynth/STANDALONE-DEVICES/tree/main/LIL'-MONO-SYNTH) — Simple east coast analog synthesizer.
 1. [Lunchbeat](https://github.com/buranelectrix/lunchbeat-PCB) — 1-bit percussion sounds and a sequencer.
 1. [MIDIvampire II](http://www.openmusiclabs.com/projects/midivamp2/index.html) — 4 voice drum machine that is powered from the MIDI data line.
+1. [Meebleeps Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) — Dual-Voice 2 operator 8-bit FM Arduino Synth with 2-track generative sequencer, Mozzi library, Volca form-factor.
+1. [Meebleeps Mutant](https://github.com/Meebleeps/MeeBleeps-Mutant-Synth) — 8-Bit 2-oscillator subtractive Arduino synth for generative techno, using Mozzi library, in Volca form-factor.
+
 1. [Meeblip Micro](https://github.com/MeeBlip/meeblip-circuits) — Hackable monophonic synth based on atmega32.
 1. [Meeblip SE](https://github.com/MeeBlip/meeblip-circuits) — Hackable monophonic synth based on atmega32.
 1. [Meeblip Triode](https://github.com/MeeBlip/meeblip-triode) — Hackable monophonic synth based on atmega32. It consists of 2 PCBs stacked together.
@@ -36,6 +40,7 @@ your building experience.
 1. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) — Open platform for ultimate MIDI control deck building
 1. [POLY555](https://github.com/oskitone/poly555) — Polyphonic, analog, square wave synth based on the _555_ timer chip.
 1. [Polaron](https://github.com/zueblin/Polaron) — Digital drum machine based on the Teensy 3.6.
+1. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) — Full analog, semi modular (!), patchable synthesizer. It is an interface that works in conjunction with open source voice card.
 1. [Portable synth](https://github.com/prajwal1121/Portable-Synth) — OP-1 style portable groovebox based around Teensy 4.
 1. [PreenFM 2](https://github.com/Ixox/preenfm2) — Preenfm brings the old FM synthesis in small open-source modern DIY boxes.
 1. [Real SID shield](https://github.com/emceha/RealSIDShield) — Digital interface to SID chip (Commodore 64).
