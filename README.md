@@ -25,7 +25,6 @@ your building experience.
 1. [MIDIvampire II](http://www.openmusiclabs.com/projects/midivamp2/index.html) — 4 voice drum machine that is powered from the MIDI data line.
 1. [Meebleeps Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) — Dual-Voice 2 operator 8-bit FM Arduino Synth with 2-track generative sequencer, Mozzi library, Volca form-factor.
 1. [Meebleeps Mutant](https://github.com/Meebleeps/MeeBleeps-Mutant-Synth) — 8-Bit 2-oscillator subtractive Arduino synth for generative techno, using Mozzi library, in Volca form-factor.
-
 1. [Meeblip Micro](https://github.com/MeeBlip/meeblip-circuits) — Hackable monophonic synth based on atmega32.
 1. [Meeblip SE](https://github.com/MeeBlip/meeblip-circuits) — Hackable monophonic synth based on atmega32.
 1. [Meeblip Triode](https://github.com/MeeBlip/meeblip-triode) — Hackable monophonic synth based on atmega32. It consists of 2 PCBs stacked together.
