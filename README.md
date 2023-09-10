@@ -17,6 +17,7 @@ your building experience.
 1. [Echo Rockit](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1910&VPH=871) — Small, portable synth / effect processor.
 1. [Faderbank 16n](https://github.com/16n-faderbank/16n) — 16 faders MIDI-controller which is compatible with modular world
 1. [Fasma Festival](https://tomashg.com/?p=1324) — Yet another Teensy drum machine with clock sync.
+1. [Flounder](https://github.com/MattKuebrich/flounder) — Teensy based usb midi keyboard + controls + stereo audio
 1. [Kelpie](https://github.com/friedpies/kelpie-pocket-synth) — Portable polyphonic digital synthesizer.
 1. [Le Strum](https://github.com/hotchk155/Voici-Le-Strum) — Compact and very simple yet funny MIDI strummer.
 1. [Lil CMOS toolbox](https://github.com/diysynth/STANDALONE-DEVICES) — CMOS-based semi-modular synthesizer.
@@ -42,7 +43,9 @@ your building experience.
 1. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) — Full analog, semi modular (!), patchable synthesizer. It is an interface that works in conjunction with open source voice card.
 1. [Portable synth](https://github.com/prajwal1121/Portable-Synth) — OP-1 style portable groovebox based around Teensy 4.
 1. [PreenFM 2](https://github.com/Ixox/preenfm2) — Preenfm brings the old FM synthesis in small open-source modern DIY boxes.
+1. [Quantum DJ](https://warmplace.ru/hard/qdj/?fbclid=IwAR3kJHlGsxXUGChfXL_qjapHxT5TMV6Du6AfpE0VJ6x5OJzYAFS-qSvjPYk) — Electromagnetic noise to 1bit sound converter
 1. [Real SID shield](https://github.com/emceha/RealSIDShield) — Digital interface to SID chip (Commodore 64).
+1. [S54 (Liv's Synth)](https://github.com/SloBloLabs/LivSynth/tree/main) — Hybrid mono synth build with full analogue signal path.
 1. [Shruthi-1](https://mutable-instruments.net/archive/shruthi/build/) — Hybrid synthesiser with digital generators and swappable analog filter boards.
 1. [Sound Lab Mini-Synth](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1910&VPH=871) — Full analog legendary design by Ray Wilson.
 1. [Sound Lab Mini-Synth MkII](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1910&VPH=871) — Full analog Ray Wilson's synth. Descendant of Sound Lab Mini-Synth.
