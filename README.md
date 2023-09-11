@@ -10,8 +10,10 @@ your building experience.
 1. [ATtiny Punk Console](https://github.com/noisio/ATtiny-Punk-Console) — ATtiny85 implementation of Atari Punk Console
 1. [Ambika](https://mutable-instruments.net/archive/) — Multi-voice, hybrid synthesizer. Descendant of Shruthi-1.
 1. [Anushri](https://mutable-instruments.net/archive/) — DIY digitally controlled analog monosynth.
+1. [ArduTouch](https://github.com/maltman23/ArduTouch/tree/master) — Arduino-compatible music synthesizer
 1. [Arpie](https://six4pix.com/product/arpie/) — Compact, highly-functional, MIDI arpeggiator.
 1. [BE2N](https://www.jolinlab.com/be2n/) — BE2N is a 22HP eurorack module with two specular Benjolins at its core.
+1. [Coron DS7 (DS8)](http://m.bareille.free.fr/ds7clone/ds8.htm) — Percussion & Drum Synthe
 1. [Drone & Drama](https://github.com/bjc01/D-D_Teensy) — Simple drone synth based on Teensy.
 1. [DrumKid](https://github.com/mattybrad/drumkid) — Lo-fi aleatoric Arduino drum machine.
 1. [Echo Rockit](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1910&VPH=871) — Small, portable synth / effect processor.
@@ -19,6 +21,7 @@ your building experience.
 1. [Fasma Festival](https://tomashg.com/?p=1324) — Yet another Teensy drum machine with clock sync.
 1. [Flounder](https://github.com/MattKuebrich/flounder) — Teensy based usb midi keyboard + controls + stereo audio
 1. [Kelpie](https://github.com/friedpies/kelpie-pocket-synth) — Portable polyphonic digital synthesizer.
+1. [LMN-3](https://github.com/FundamentalFrequency) — OP-1 inspired DAW-in-a-box
 1. [Le Strum](https://github.com/hotchk155/Voici-Le-Strum) — Compact and very simple yet funny MIDI strummer.
 1. [Lil CMOS toolbox](https://github.com/diysynth/STANDALONE-DEVICES) — CMOS-based semi-modular synthesizer.
 1. [Lil' mono](https://github.com/diysynth/STANDALONE-DEVICES/tree/main/LIL'-MONO-SYNTH) — Simple east coast analog synthesizer.
@@ -30,6 +33,7 @@ your building experience.
 1. [Meeblip SE](https://github.com/MeeBlip/meeblip-circuits) — Hackable monophonic synth based on atmega32.
 1. [Meeblip Triode](https://github.com/MeeBlip/meeblip-triode) — Hackable monophonic synth based on atmega32. It consists of 2 PCBs stacked together.
 1. [Mega MIDI](https://github.com/AidanHockey5/MegaMIDI) — MIDI-compatible Sega Genesis/Megadrive Synthesizer with REAL sound chips.
+1. [Mini Dexed](https://github.com/probonopd/MiniDexed) — FM synthesizer closely modeled on the famous DX7
 1. [Mixtape Alpha](http://wiki.openmusiclabs.com/wiki/MixtapeAlpha) — Credit-card sized Atmega328-based 4 voice synth.
 1. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) — An experimental physical interface for the NSynth algorithm. 
 1. [NTH synth](https://github.com/NTHSynth/NTH_DSP) — 8-bit hackable mono synth.
@@ -43,6 +47,7 @@ your building experience.
 1. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) — Full analog, semi modular (!), patchable synthesizer. It is an interface that works in conjunction with open source voice card.
 1. [Portable synth](https://github.com/prajwal1121/Portable-Synth) — OP-1 style portable groovebox based around Teensy 4.
 1. [PreenFM 2](https://github.com/Ixox/preenfm2) — Preenfm brings the old FM synthesis in small open-source modern DIY boxes.
+1. [Protean](https://github.com/pangrus/Protean/tree/master) — ATtiny-based motion texture source
 1. [Quantum DJ](https://warmplace.ru/hard/qdj/?fbclid=IwAR3kJHlGsxXUGChfXL_qjapHxT5TMV6Du6AfpE0VJ6x5OJzYAFS-qSvjPYk) — Electromagnetic noise to 1bit sound converter
 1. [Real SID shield](https://github.com/emceha/RealSIDShield) — Digital interface to SID chip (Commodore 64).
 1. [S54 (Liv's Synth)](https://github.com/SloBloLabs/LivSynth/tree/main) — Hybrid mono synth build with full analogue signal path.
