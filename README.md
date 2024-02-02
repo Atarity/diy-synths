@@ -42,6 +42,7 @@ your building experience.
 1. [Norns shield](https://github.com/monome/norns-shield) — Norns is an open, dynamic instrument creation platform and musical computer. 
 1. [OTTO](https://github.com/bitfieldaudio/OTTO) — Digital hardware groovebox, with synths, samplers, effects and a sequencer with an audio looper.
 1. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) — Open platform for ultimate MIDI control deck building
+1. [papar_bits](https://paperpcb.dernulleffekt.de/doku.php?id=paper_bits:paper_bits_main) - Paper Bits are a small, open, modular synthesiser system. voltage controlled and compatible with [veraboards](https://en.wikipedia.org/wiki/Veroboard)
 1. [POLY555](https://github.com/oskitone/poly555) — Polyphonic, analog, square wave synth based on the _555_ timer chip.
 1. [Polaron](https://github.com/zueblin/Polaron) — Digital drum machine based on the Teensy 3.6.
 1. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) — Full analog, semi modular (!), patchable synthesizer. It is an interface that works in conjunction with open source voice card.
