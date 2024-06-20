@@ -42,8 +42,9 @@ your building experience.
 1. [Norns shield](https://github.com/monome/norns-shield) — Norns is an open, dynamic instrument creation platform and musical computer. 
 1. [OTTO](https://github.com/bitfieldaudio/OTTO) — Digital hardware groovebox, with synths, samplers, effects and a sequencer with an audio looper.
 1. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) — Open platform for ultimate MIDI control deck building
-1. [papar_bits](https://paperpcb.dernulleffekt.de/doku.php?id=paper_bits:paper_bits_main) - Paper Bits are a small, open, modular synthesiser system. voltage controlled and compatible with [veraboards](https://en.wikipedia.org/wiki/Veroboard)
 1. [POLY555](https://github.com/oskitone/poly555) — Polyphonic, analog, square wave synth based on the _555_ timer chip.
+1. [Paper Bits](https://paperpcb.dernulleffekt.de/doku.php?id=paper_bits:paper_bits_main) — Paper Bits is a small, modular synthesiser system. Voltage controlled, stripboard compatible.
+1. [Plinky](https://github.com/plinkysynth/plinky_public/tree/main) — Plinky is an 8-voice polyphonic touch synthesiser that specialises in fragile, melancholic sounds
 1. [Polaron](https://github.com/zueblin/Polaron) — Digital drum machine based on the Teensy 3.6.
 1. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) — Full analog, semi modular (!), patchable synthesizer. It is an interface that works in conjunction with open source voice card.
 1. [Portable synth](https://github.com/prajwal1121/Portable-Synth) — OP-1 style portable groovebox based around Teensy 4.
@@ -57,7 +58,7 @@ your building experience.
 1. [Sound Lab Mini-Synth MkII](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1910&VPH=871) — Full analog Ray Wilson's synth. Descendant of Sound Lab Mini-Synth.
 1. [Teensy Audio FX](https://github.com/mattvenn/teensy-audio-fx) — Playable effects modeled on the Teenage Engineering PO series
 1. [Teensy Beats Shield](https://hackaday.io/project/161127-teensy-beats-shield) — Handheld audio sequencer. PO style.
-1. [Totoro 1-IC](https://syntherjack.net/totoro-1-ic-simple-synth/) — Cheap and easy to solder 2 oscillators synth.
+1. [Totoro](https://github.com/Atarity/totoro-synth) — Cheap and easy to solder 2 oscillators synth.
 1. [WTPA2 (Where is the party at 2)](http://blog.narrat1ve.com/wtpa2/) — 8-bit audio sampler kit which does some stuff that no other samplers out there do.
 1. [Wee Noise Maker](https://hackaday.io/project/19326-wee-noise-maker) — Pocket size sampler/sequencer with audio DAC, headphone amplifier and audio input.
 1. [YM2149 Synth](https://github.com/trash80/Ym2149Synth) — Neat little chip that was used in various retro arcade machines and consoles, including the Atari ST.

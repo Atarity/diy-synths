@@ -1,8 +1,8 @@
 import os, operator
 from functools import reduce
-from pyairtable import Table
+from pyairtable import Api
 
-api_key = os.environ["AIRTABLE_API_KEY"]
+api_token = os.environ["AIRTABLE_SYNTHSDB_TOKEN"]
 base_id = os.environ["AIRTABLE_BASE_ID"]
 table_name = "Table 1"
 file1 = "README.md"
@@ -14,7 +14,8 @@ in list and [discuss](https://github.com/Atarity/diy-synths/discussions)
 your building experience.\n
 ![DIY-synths-title](/diy-synths-title.jpg)\n"""
 
-table = Table(api_key, base_id, table_name)
+api = Api(api_token)
+table = api.table(base_id, table_name)
 # print(table.all())
 data = table.all()
 data.sort(key=lambda e: e["fields"]["Name"], reverse=False) # sort list of dicts by name A-Z
