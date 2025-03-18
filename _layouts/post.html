@@ -1,0 +1,73 @@
+---
+layout: none
+---
+
+{% include header.html %}
+
+<body id="post">
+    <div class="jlist-wrap single-page">
+        <div class="item-wrap" style="display: flex;">
+            <span><a href="{{ site.baseurl }}/">← back</a></span>
+            <div class="item-inner">
+                <div class="item-name">{{ page.name }}</div>
+                <div class="item-field item-description">{{ page.description }}</div>
+
+                <div class="item-field item-tags">
+                    <ul class="values-list">
+                    {% for tag in page.tags %}
+                        <li>{{ tag }}</li>
+                    {% endfor %}
+                    </ul>
+                </div>
+
+                <div class="item-field item-image">
+                    <img src="{{ page.pic }}" />
+                </div>
+
+                <div class="item-field item-notes">{{ page.notes }}</div>
+
+                {% assign cont = page.content | strip %}
+                {% if cont.size > 0 %}
+                    <div class="item-field item-content">{{ page.content }}</div>
+                {% endif %}
+
+                <div class="item-field item-link">
+                    <a href="{{ page.link }}" target="_blank">Go to project</a>
+                </div>
+
+                <div class="item-field item-author">
+                    <label>Author:</label>{{ page.author }}
+                </div>
+
+                <div class="item-field item-level">
+                    <label>Skills level:</label>{{ page.level }}
+                </div>
+
+                <div class="item-field item-artifacts">
+                    <label>What's published:</label>
+
+                    <ul class="artifacts-list">
+                        {% for artifact in page.artifacts %}
+                            {% assign key = artifact | split: "=>" | first | remove: '{"' | remove: '"' %}
+                            {% assign value = artifact | split: "=>" | last | remove: "}" %}
+                                <li>
+                                    {% if value == "true" %}
+                                    <span class="plus">+</span>{{ key }}
+                                    {% else %}
+                                    <span class="minus">-</span>{{ key }}
+                                    {% endif %}
+
+                                </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+
+                <div class="item-field item-demo">
+                    <iframe src="https://www.youtube.com/embed/{{ page.demo | split: '=' | last }}"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+<body>
+
+{% include footer.html %}

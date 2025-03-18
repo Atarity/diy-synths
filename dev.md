@@ -1,0 +1,3 @@
+- Run in VM once (just after initial image built):
+    - `bundle install`
+    - `git config core.hooksPath .githooks/`

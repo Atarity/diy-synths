@@ -1,0 +1,39 @@
+<footer>© {{ site.time | date: '%Y' }} <a href="https://snnkv.com/">Mishka</a> × <a href="#">Slavka</a> • <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA</a> • <a href="{{ site.baseurl }}/feed.xml">RSS</a> <br>
+      build:&nbsp;<h12 title="1 commit back of a HEAD">{{ site.data.version.build }}</h12> • projects: {{ site.posts | size }} • upd: {{ site.time | date: "%Y-%m-%d" }}</footer>
+
+<script type="text/javascript" src=" {{ site.baseurl }}/jlist.js?v=7"></script>
+
+<script>
+    JList.favicon("{{ site.favicon_text }}");
+
+    {% if page.layout == "post" %}
+
+        JList.singlePage();
+
+    {% elsif page.name == "index.html" %}
+
+        list = new JList({
+            el: ".wrap",
+            name: "{{ site.title }}",
+            nameShort: "{{ site.favicon_text }}",
+            copyright: "&copy; {Y} snnkv.com",
+            headerTitle: false,
+            limit: 12,
+            db: "{{ site.db }}",
+            imgPath: "{{ site.pics }}",
+            fields: [
+                {"name": "Category", "field": "tags", "type": "tag", "hint": "Assorted synth-related keywords with no particular system."},
+                {"name": "Skill level", "field": "level", "type": "tag", "hint": "Estimated build complexity. Newbe is for basic soldering, well documented designs, simple schematics. Advanced is for smd parts, complex sourcing, FW compilation, etc."},
+                {"name": "Files published", "field": "artifacts", "type": "tag", "hint": "Manufacturing files published. Bill Of Materials (BOM), Printed Circuit Board (PCB) layout, Firmware (FW) source code, etc."},
+                {"name": "Author", "field": "author", "type": "select", "hint": "(Nik)name of creator, company or collective."},
+            ],
+            menu: [
+                {name: "GitHub", url: "https://github.com/Atarity/diy-synths", target: "_blank"},
+                {name: "About", url: "{{ site.baseurl }}/about", target: "_self"}
+            ]
+        });
+
+    {% endif %}
+</script>
+
+</html>

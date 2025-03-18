@@ -1,0 +1,845 @@
+---
+layout: none
+---
+:root {
+    --accent-color: #{{site.accent_color}};
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+    color: #333;
+    font-family: sans-serif;
+}
+
+
+.jlist-wrap {
+    display: flex;
+    flex-direction: column;
+    max-width: 80rem;
+    margin: 0 auto;
+}
+
+.jlist-wrap header {
+    display: flex;
+    flex-direction: row;
+    padding: 1.0rem .5rem;
+    gap: 30px;
+    align-items: center;
+    box-shadow: 0 1px 0 0 rgb(0 0 0 / .05);
+    top: 0;
+    position: sticky;
+    background: #FFF;
+    z-index: 12;
+    position: relative;
+    transition: transform 0.3s ease;
+}
+
+header.sticky {
+    position: sticky;
+}
+
+.jlist-wrap h1 {
+    padding: 0;
+    margin: 0;
+    font-size: large;
+}
+
+.jlist-wrap h1 a {
+    text-decoration: none;
+    color: #333;
+    font-size: 1.5rem;
+}
+
+.jlist-wrap input.searchbox {
+    background-color: rgb(244,244,245);
+    border: 1px solid;
+    border-radius: .125rem;
+    padding: 0 5px;
+    margin: 0;
+    border-color: #333;
+    appearance: none;
+    height: 30px;
+    flex: 0 1 13.5rem;
+    min-width: 8rem;
+}
+
+.jlist-wrap aside {
+    max-width: 15rem;
+    height: calc(100vh - 30px);
+    padding: .5rem 1rem .5rem .5rem;
+    position: sticky;
+    scrollbar-width: none;
+    overflow-y: auto;
+    box-sizing: border-box;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    top: 3rem;
+    background: #FFF;
+    z-index: 11;
+    border-right: .5px solid rgba(0,0,0,0.05);
+}
+
+.jlist-wrap .grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-rows: auto 1fr;
+    display: grid;
+    box-sizing: border-box;
+    width: 100%;
+    padding-bottom: 50px;
+}
+
+.jlist-wrap .aside-item {
+    margin: .5rem 0 .5rem 0;
+}
+
+.jlist-wrap aside input,
+.jlist-wrap aside select {
+    padding: .25rem;
+    font-size: .75rem;
+    line-height: 1rem;
+    border-radius: .125rem;
+    width: 100%;
+    appearance: none;
+    background-color: #fff;
+    border-color: #6b7280;
+    border-width: 1px;
+}
+
+.jlist-wrap input[type="checkbox"] {
+    position: relative;
+    cursor: pointer;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    outline: none;
+    width: 16px;
+    flex: 0 0 16px;
+    height: 16px;
+    background-color: #CCC;
+    border-radius: 5px;
+}
+
+.jlist-wrap input[type="checkbox"]:checked::after {
+    content: "";
+    position: absolute;
+    left: 2px;
+    top: 2px;
+    right: 2px;
+    bottom: 2px;
+    background-color: #333;
+    border: none;
+    border-radius: 4px;
+}
+
+.jlist-wrap label {
+    margin-bottom: 5px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.jlist-wrap label > h3 {
+    margin: 0;
+    line-height: normal;
+    font-size: medium;
+    margin-top: -3px;
+}
+
+.jlist-wrap .tag--item,
+.filter-toggle {
+    display: inline-block;
+    margin-bottom: .5rem;
+    margin-right: .5rem;
+    border: 1px solid #333;
+    padding: 5px;
+    box-sizing: border-box;
+    border-radius: .125rem;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 100;
+}
+
+.jlist-wrap .tag--item:hover {
+    background-color: rgb(228,228,231);
+}
+
+.jlist-wrap .tag--item.active {
+    background-color: var(--accent-color);
+    border-color: var(--accent-color);
+    color: #333;
+}
+
+.jlist-wrap .category--item {
+    width: 100%;
+}
+
+.jlist-wrap .main {
+    display: flex;
+    flex-direction: row;
+}
+
+.jlist-wrap .grid-item {
+    padding: .5rem;
+    box-sizing: border-box;
+    width: 100%;
+    border: .5px solid rgba(0,0,0,0.05);
+}
+
+.jlist-wrap .grid-item img {
+    width: 100%;
+    height: 250px;
+    min-height: 250px;
+    background: rgba(0,0,0,0.1);
+    text-indent: 1000px;
+    display: block;
+    object-fit: cover;
+}
+
+.jlist-wrap .grid-item a {
+    color: #333;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.jlist-wrap .grid-item h4 {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 100;
+    padding: 3px;
+    border-left: 1px solid;
+    border-bottom: 1px solid;
+    display: inline-block;
+}
+
+.jlist-wrap .grid-item h2 {
+    margin: 10px 0 0 0;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.jlist-wrap .grid-item:hover {
+    background-color: rgb(228,228,231);
+}
+
+.jlist-wrap .descr {
+    font-weight: 100;
+    font-size: 14px;
+}
+
+.jlist-wrap .grid-wrap {
+    flex: 1;
+    position: relative;
+}
+
+.jlist-wrap .item-wrap {
+    position: fixed;
+    width: 100%;
+    height: 100dvh;
+    background: #FFF;
+    z-index: 11;
+    display: none;
+    box-sizing: border-box;
+    flex-direction: column;
+    border: .5px solid rgba(0, 0, 0, 0.05);
+    max-width: 80rem;
+    top: 0;
+}
+
+.jlist-wrap.single-page {
+    max-width: 60rem;
+}
+
+.jlist-wrap.single-page .item-wrap {
+    position: relative;
+    height: auto;
+}
+
+.single .jlist-wrap .item-wrap {
+    display: flex;
+}
+
+.single .jlist-wrap .grid-wrap:before {
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: #FFF;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.jlist-wrap .item-wrap > span {
+    font-size: 1em;
+    position: absolute;
+    right: 15px;
+    cursor: pointer;
+    z-index: 3;
+    background: #FFF;
+    top: 20px;
+    color: #333;
+    width: 64px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 32px;
+}
+
+.jlist-wrap .grid-item > a {
+    pointer-events: none;
+}
+
+.jlist-wrap .item-inner {
+    height: auto;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    padding: 15px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    min-height: calc(100dvh - 1px);
+}
+
+.jlist-wrap .item-inner > div {
+    position: relative;
+    z-index: 2;
+    color: #FFF;
+    max-width: 80%;
+}
+
+.jlist-wrap.single-page .item-inner > div {
+    color: #333;
+    max-width: 100%;
+}
+
+.jlist-wrap .item-description {
+    font-size: 2em;
+    font-weight: 100;
+    margin-top: -10px;
+}
+
+.jlist-wrap .item-notes {
+    font-weight: 100;
+}
+
+.jlist-wrap .item-content > p, ul {
+    font-weight: 100;
+    margin: 0 0 1em 0;
+}
+
+.jlist-wrap .item-inner:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.7);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    z-index: 1;
+}
+
+.jlist-wrap.single-page .item-inner:before {
+    display: none;
+}
+
+.jlist-wrap .item-name {
+    font-size: 3rem;
+    color: #FFF;
+}
+
+.jlist-wrap ul.values-list {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.jlist-wrap ul.values-list li {
+    list-style: none;
+    border: 1px solid;
+    padding: 0 5px;
+}
+
+.jlist-wrap label {
+    margin-bottom: 5px;
+    display: inline-block;
+    color: #FFF;
+    padding: 0;
+    width: 100%;
+    border-bottom: .5px solid #FFF;
+    font-weight: 600;
+}
+
+.jlist-wrap.single-page label {
+    color: #333;
+    border-bottom: .5px solid #999;
+}
+
+.jlist-wrap .item-wrap a {
+    color: #FFF;
+    text-decoration: blink;
+    margin-top: 0;
+    display: inline-block;
+    text-decoration: underline;
+}
+
+.jlist-wrap.single-page .item-wrap a {
+    color: #333;
+}
+
+.jlist-wrap .item-wrap .item-link a {
+    color: #FFF;
+    text-decoration: blink;
+    padding: 15px;
+    /* margin-top: 15px; */
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    background: var(--accent-color);
+    color: #333;
+}
+
+.jlist-wrap .item-field.item-link {
+/*     position: absolute !important;
+    bottom: 30px;
+    left: 50%;
+    margin-left: -50px; */
+}
+
+.jlist-wrap.single-page .item-field.item-link {
+    /* position: fixed !important; */
+    /* z-index: 11; */
+    padding-bottom: 15px;
+}
+
+.jlist-wrap ul.artifacts-list {
+    padding: 0px;
+    margin: 5px 0 0 0;
+}
+
+.jlist-wrap ul.artifacts-list li {
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+.jlist-wrap span.plus,
+.jlist-wrap span.minus {
+    width: 16px;
+    height: 16px;
+    background: #FFF;
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    margin: 2px 9px 0 0;
+    line-height: 16px;
+    box-sizing: border-box;
+}
+
+.jlist-wrap span.minus {
+    background: transparent;
+    color: #FFF;
+    border: 1px solid;
+    box-sizing: border-box;
+}
+
+.jlist-wrap.single-page span.plus,
+.jlist-wrap.single-page span.minus {
+    background: #FFF;
+    border: 1px solid;
+    color: #333;
+}
+
+.jlist-wrap .aside-filter {
+    padding: 5px 0;
+    margin-bottom: 160px;
+}
+
+.filtered .jlist-wrap .filter-clear {
+    display: inherit;
+    background: transparent;
+    color: #333;
+    border: 1px solid;
+    margin-top: 5px;
+}
+
+.jlist-wrap button {
+    background: var(--accent-color);
+    color: #FFF;
+    border: none;
+    padding: 10px 5px;
+    width: auto;
+    display: inline-block;
+    width: 100%;
+    color: #333;
+    border: 1px solid;
+}
+
+.jlist-wrap .filter-clear {
+    display: none;
+}
+
+.jlist-wrap .filter-ok {
+    display: none;
+}
+
+.jlist-wrap span.filter-toggle {
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+    display: none;
+}
+
+.jlist-header-img {
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    padding: 60px;
+    box-sizing: border-box;
+    color: #FFF;
+    align-items: baseline;
+    justify-content: center;
+    position: relative;
+}
+
+.jlist-header-img::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    z-index: 1;
+}
+
+.jlist-header-img h2 {
+    font-size: 1.5em;
+    position: relative;
+    z-index: 2;
+    text-transform: uppercase;
+}
+
+.jlist-header-img p {
+    width: 500px;
+    max-width: 100%;
+    position: relative;
+    z-index: 2;
+}
+
+ul.jlist-top-menu {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    right: 15px;
+}
+
+ul.jlist-top-menu li {
+    list-style: none;
+}
+
+ul.jlist-top-menu li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+h1 > a.title-short {
+    display: none;
+}
+
+p.nothing {
+    font-size: 1.5em;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+footer {
+    bottom: 0;
+    z-index: 12;
+    width: 100%;
+    background: #F7F7F7;
+    padding: 15px 30px;
+    text-align: left;
+    box-sizing: border-box;
+    font-family: monospace;
+    font-size: 85%;
+    line-height: 1.5;
+    color: rgba(0,0,0,0.7);
+    border-top: .5px solid rgba(0,0,0,0.05);
+    margin: 0 auto;
+}
+
+.single-page footer {
+    max-width: 60rem;
+}
+
+body.nothing footer {
+    position: fixed;
+}
+
+.filter-toggle i {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAABb0lEQVRoge2Zuy5FQRSGl0sjCiEqhUIoPIBGiUYkKg2R6J2CUHgDl3dQuLUqb6BSKlQUIi6JRCcSJOfwT84exWbPnjlnz6yVWF/y9d/aJ2fPymwiRVEUJRIjcA1uMbsOx0Lj5+A7/BLiB5z3je+AdwKi895nbaUMCIgtctBngE74ICA272PW5sUCbAiItjaypiBqAsKtm6Hxlj0B8butxhvMv36fMf6YPN88LrrgKUP8GexuN97SA88Txl/A3qriLX3wMkH8FTXPoigMwduI8ea0HY4VbxmFzxHiX+B47HjLBHytMP4NTqaKt0xTNRvrJ5xN3P7DIqyXBLo0K8JK8uocq9T6ABsMvX+yQ+Hx2yylBZjjPnSAtleEqgkdQBw6ADc6ADc6ADc6ADch8XWmRichA1wzNTrxjTcr9BJToxOf+CdqXt2LpOwu9Qj2s9V5cEPFT9374wQny/T7VzihiHc8MZiCh/AAzvCmKMr/4BsyUrwIzOpt4QAAAABJRU5ErkJggg==);
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    background-size: contain;
+    position: absolute;
+    display: none;
+    right: 3px;
+    top: 6px;
+}
+
+.filtered .filter-toggle {
+    padding-right: 20px;
+}
+
+.filtered.filter .filter-toggle {
+    padding-right: 5px;
+}
+
+.filtered .filter-toggle i {
+    display: inline-block;
+}
+
+.jlist-wrap h3 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.jlist-wrap h3 span {
+    font-size: 10px;
+    width: 15px;
+    height: 15px;
+    background: #CCC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 3px;
+    cursor: pointer;
+    border-radius: 50%;
+    opacity: 0.5;
+}
+
+.jlist-wrap h3 i {
+    position: absolute;
+    background: var(--accent-color);
+    font-size: 11px;
+    width: calc(100% - 30px);
+    left: 0;
+    top: -1px;
+    padding: 5px;
+    font-weight: 400;
+    display: none;
+    border-radius: 3px;
+}
+
+.jlist-wrap h3.hint i {
+    display: block;
+}
+
+.jlist-wrap .item-image img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.jlist-wrap.single-page img.full {
+    position: relative;
+    z-index: 11;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100% !important;
+}
+
+.jlist-wrap.single-page iframe {
+    display: block;
+    background: #000;
+    border: none;
+    /* margin: 0 auto; */
+    width: 640px;
+    height: 360px;
+    max-width: 100%;
+}
+
+.jlist-wrap.single-page .item-field.item-demo {
+    margin-bottom: 100px;
+}
+
+.jlist-header-img-inner {
+    width: 80rem;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+}
+
+@media (max-width: 767px) {
+
+    body.filter {
+        overflow: hidden;
+    }
+
+    .jlist-wrap .main {
+        flex-direction: column;
+    }
+
+    .jlist-wrap aside {
+        max-width: none;
+        width: 100%;
+        position: fixed;
+        height: 100vh;
+        top: 0;
+        z-index: 1;
+        background: #FAFAFA;
+        display: none;
+    }
+
+    .filter .jlist-wrap aside {
+        display: block;
+        margin-top: 55px;
+        z-index: 100;
+        padding: .5rem;
+    }
+
+    .jlist-wrap .grid {
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+
+    .jlist-wrap .grid-item {
+        padding: 1rem;
+    }
+
+    .jlist-wrap .aside-item {
+        margin: .5rem 0 .5rem 0;
+        padding: .5rem;
+        background: #FFF;
+        border-radius: .125rem;
+    }
+
+    .jlist-wrap .item-wrap {
+        position: fixed;
+        width: 100%;
+        min-height: 100dvh;
+        top: 0;
+        overflow: auto;
+        padding-bottom: 50px;
+    }
+
+    .jlist-wrap.single-page .item-wrap {
+        position: relative;
+        height: auto;
+        padding-bottom: 100px;
+    }
+
+    .jlist-wrap .item-inner > div {
+        max-width: 100%;
+    }
+
+    .jlist-wrap .item-field.item-link {
+/*         position: fixed !important;
+        bottom: 0;
+        left: 0;
+        margin-left: 0; */
+        width: 100%;
+        z-index: 3;
+    }
+
+    .jlist-wrap .item-wrap .item-link a {
+        width: 100%;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    .jlist-wrap .item-name {
+        font-size: 2rem;
+    }
+
+    .jlist-wrap .item-description {
+        font-size: 1em;
+    }
+
+    .jlist-wrap .filter-ok {
+        display: inline-block;
+    }
+
+    .jlist-wrap .item-wrap > span {
+   /*      right: 0;
+        top: 0; */
+        display: none;
+        /* position: fixed; */
+    }
+
+    .jlist-wrap span.filter-toggle {
+        display: inline-block;
+        min-width: 45px;
+        text-align: center;
+        margin: 0;
+    }
+
+    .jlist-wrap .item-inner {
+        min-height: 100dvh;
+    }
+
+    h1 > a.title {
+        display: none;
+    }
+
+    h1 > a.title-short {
+        display: block;
+    }
+
+    .jlist-wrap header {
+        gap: 10px;
+        position: fixed;
+        left: 0;
+        width: calc(100% - 15px);
+    }
+
+    ul.jlist-top-menu {
+        position: relative;
+        right: inherit;
+    }
+
+    .jlist-header-img {
+        padding: 30px;
+        margin-top: 45px;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    .jlist-wrap input.searchbox {
+        flex: 0 1 10rem;
+        min-width: 8rem;
+    }
+
+}

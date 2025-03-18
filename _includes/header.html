@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="yes" name="mobile-web-app-capable">
+    <meta name="title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+
+    <!-- Open Graph section for fancy-shmancy sharing -->
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+    <meta property="og:site_name" content="diy-synths.snnkv.com" />
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+    <meta property="og:image" content="{% if page.pic %}{{site.url}}{{ site.baseurl }}{{ page.pic | remove_first: ".." }}{% else %}{{site.url}}{{ site.baseurl }}/{{ site.sharing_pic }}{% endif %}" />
+    <meta name="twitter:image" content="{% if page.pic %}{{site.url}}{{ site.baseurl }}{{ page.pic | remove_first: ".." }}{% else %}{{site.url}}{{ site.baseurl }}/{{ site.sharing_pic }}{% endif %}" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    {% if page.date %}
+        <meta property="article:published_time" content="{{ page.date }}" />
+    {% endif %}
+
+    {% if page.layout == "post" or page.layout == "page" %}
+        <title>{{ page.title }} | {{ site.title }}</title>
+    {% else %}
+        <title>{{ page.title }}</title>
+    {% endif %}
+
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+    <link rel="stylesheet" media="all" href="{{ site.baseurl }}/styles.css?{{ site.data.version.build }}" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml">
+</head>
