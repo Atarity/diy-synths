@@ -1,8 +1,8 @@
-## [WEB VERSION](https://diy-synths.snnkv.com/)  /  [SUBMIT DESIGN](https://diy-synths.snnkv.com/submit)  /  [DISCUSSION](https://github.com/Atarity/diy-synths/discussions)
+## [WEB VERSION](https://diy-synths.snnkv.com/)  /  [SUBMIT DESIGN](https://github.com/Atarity/diy-synths/discussions)  /  [DISCUSSION](https://github.com/Atarity/diy-synths/discussions)
 
 This is a list of synthesizers and related hardware you can build
 on your own. All designs are open-source including firmware.
-[Submit designs](https://diy-synths.snnkv.com/submit) which is not
+[Submit designs](https://github.com/Atarity/diy-synths/discussions) which is not
 in list and [discuss](https://github.com/Atarity/diy-synths/discussions)
 your building experience.
 

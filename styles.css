@@ -533,7 +533,7 @@ header.sticky {
 }
 
 .jlist-header-img h2 {
-    font-size: 1.5em;
+    font-size: 1.7em;
     position: relative;
     z-index: 2;
     text-transform: uppercase;
@@ -544,6 +544,8 @@ header.sticky {
     max-width: 100%;
     position: relative;
     z-index: 2;
+    font-size: 120%;
+    font-weight: 100;
 }
 
 ul.jlist-top-menu {
@@ -840,6 +842,15 @@ body.nothing footer {
     .jlist-wrap input.searchbox {
         flex: 0 1 10rem;
         min-width: 8rem;
+    }
+
+    .jlist-header-img h2 {
+        font-size: 1.5em;
+    }
+
+    .jlist-header-img p {
+        font-size: 100%;
+        font-weight: 400;
     }
 
 }

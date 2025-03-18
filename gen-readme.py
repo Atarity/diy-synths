@@ -4,10 +4,10 @@ import datetime
 
 POSTS_DIR = "./_posts"
 OUTPUT_FILE = "README.md"
-HEADER = """## [WEB VERSION](https://diy-synths.snnkv.com/)  /  [SUBMIT DESIGN](https://diy-synths.snnkv.com/submit)  /  [DISCUSSION](https://github.com/Atarity/diy-synths/discussions)\n
+HEADER = """## [WEB VERSION](https://diy-synths.snnkv.com/)  /  [SUBMIT DESIGN](https://github.com/Atarity/diy-synths/discussions)  /  [DISCUSSION](https://github.com/Atarity/diy-synths/discussions)\n
 This is a list of synthesizers and related hardware you can build
 on your own. All designs are open-source including firmware.
-[Submit designs](https://diy-synths.snnkv.com/submit) which is not
+[Submit designs](https://github.com/Atarity/diy-synths/discussions) which is not
 in list and [discuss](https://github.com/Atarity/diy-synths/discussions)
 your building experience.\n
 ![DIY-synths-title](/pics/meta/repo-title.jpg)\n\n"""
