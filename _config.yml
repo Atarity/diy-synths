@@ -23,8 +23,8 @@ accent_color: ffcc5f
 favicon_text: DIY
 
 # Build settings
-url: "https://atarity.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/diy-synths" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 source: .
 destination: ./docs
 permalink: /:categories/:title
