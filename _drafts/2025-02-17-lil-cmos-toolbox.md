@@ -22,7 +22,7 @@ tags: [Analog,Modular]
 level: Advanced
 ---
 
-This one looks deprecated now
+> Rejected on 2025-03-20: This one looks deprecated now
 
 Here is a list of the features:
 - Ring-modulator

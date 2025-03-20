@@ -22,3 +22,4 @@ tags: [Raspberry,Digital,Kit,MIDI]
 level: Intermediate
 ---
 
+- Alternative [Shield XL](https://github.com/okyeron/shieldXL) PCB layout with some additional "quality-of-life" features made by Okyeron.
