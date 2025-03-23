@@ -8,7 +8,7 @@ Projects below were checked by me, but were rejected (probably, temporary) by de
 
 ## Rejected (probably, temporary)
 - [Microdexed touch](https://codeberg.org/positionhigh/MicroDexed-touch)
-    - 2025-03-20: Too much of no-name modules in design.
+    - 2025-03-20: Too much no-name modules in the HW design.
     - alive: 3w
 - [Teensy Juno](https://github.com/wang-edward/teensy-juno)
     - 2025-03-20: HW not yet released.
