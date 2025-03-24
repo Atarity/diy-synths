@@ -23,6 +23,7 @@ your building experience.
 1. [Fasma Festival](https://github.com/ghztomash/fasma_drum) — Yet another Teensy drum machine with clock sync
 1. [Flounder](https://github.com/MattKuebrich/flounder) — Teensy based USB midi keyboard + controls + stereo audio
 1. [Hog](https://github.com/shmoergh/hog/tree/main?tab=readme-ov-file) — Double-voice analog monophonic synthesizer with two oscillators
+1. [Hypjolin](https://github.com/triglav-modular/Hypjolin) — Cross-modulating ultra-chaos generator
 1. [Kelpie](https://github.com/friedpies/kelpie-pocket-synth) — Portable polyphonic digital synthesizer
 1. [LMN-3](https://github.com/FundamentalFrequency) — OP-1 inspired DAW-in-a-box
 1. [Le Strum](https://github.com/hotchk155/Voici-Le-Strum) — Compact and simple yet funny MIDI strummer
@@ -77,4 +78,4 @@ your building experience.
 1. [x0x heart](http://www.openmusiclabs.com/projects/x0x-heart/) — Heart of the Roland TB-303, surgically extracted to be transplanted into your designs
 1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 synthesizer, with fully functional sequencer
 
-> upd: 2025-03-23
+> upd: 2025-03-24
