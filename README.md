@@ -78,4 +78,4 @@ your building experience.
 1. [x0x heart](http://www.openmusiclabs.com/projects/x0x-heart/) — Heart of the Roland TB-303, surgically extracted to be transplanted into your designs
 1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 synthesizer, with fully functional sequencer
 
-> upd: 2025-03-24
+> upd: 2025-03-25
