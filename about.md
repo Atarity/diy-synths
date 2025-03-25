@@ -28,3 +28,6 @@ Write about it in the repo [discussions](https://github.com/Atarity/diy-synths/d
 
 ## How to report a mistake or suggest an edit?
 [Create an issue](https://github.com/Atarity/diy-synths/issues), or submit a PR right away if you're confident.
+
+ 
+{% include comments.html %}

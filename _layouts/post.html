@@ -65,6 +65,10 @@ layout: none
                 <div class="item-field item-demo">
                     <iframe src="https://www.youtube.com/embed/{{ page.demo | split: '=' | last }}"></iframe>
                 </div>
+
+                <div>
+                    {% include comments.html %}
+                </div>
             </div>
         </div>
     </div>

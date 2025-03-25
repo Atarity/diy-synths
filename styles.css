@@ -691,8 +691,15 @@ body.nothing footer {
     max-width: 100%;
 }
 
+iframe.giscus-frame {
+    width: 100% !important;
+    height: auto;
+    background: #FFF !important;
+    margin-bottom: 80px;
+}
+
 .jlist-wrap.single-page .item-field.item-demo {
-    margin-bottom: 100px;
+    margin-bottom: 40px;
 }
 
 .jlist-header-img-inner {

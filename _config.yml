@@ -29,6 +29,7 @@ source: .
 destination: ./docs
 permalink: /:categories/:title
 theme:
+giscus: true
 plugins:
   - jekyll-feed
 
