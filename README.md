@@ -15,6 +15,7 @@ your building experience.
 1. [ArduTouch](https://github.com/maltman23/ArduTouch/tree/master) — Arduino-compatible music synthesizer
 1. [Arpie](https://six4pix.com/product/arpie/) — Compact, highly-functional, MIDI arpeggiator
 1. [BE2N](https://www.jolinlab.com/be2n/) — Full-fledged voice module with two specular Benjolins at its core
+1. [Beam Catcher](https://github.com/uvknhn/Beam-Catcher) — Analog light-based synthesizer
 1. [Coron DS7 (DS8)](http://m.bareille.free.fr/ds7clone/ds8.htm) — Percussion & drum synth
 1. [Drone & Drama](https://github.com/bjc01/D-D_Teensy) — Simple Teensy-based drone synth
 1. [DrumKid](https://github.com/mattybrad/drumkid) — Lo-fi aleatoric Arduino drum machine
@@ -29,19 +30,19 @@ your building experience.
 1. [Le Strum](https://github.com/hotchk155/Voici-Le-Strum) — Compact and simple yet funny MIDI strummer
 1. [Lil' mono](https://github.com/diysynth/STANDALONE-DEVICES/tree/main/LIL'-MONO-SYNTH) — Simple east-coast style analog synthesizer
 1. [Lunchbeat](https://github.com/buranelectrix/lunchbeat-PCB) — 1-bit percussion sounds and a sequencer
-1. [MIDIvampire II](http://www.openmusiclabs.com/projects/midivamp2/index.html) — 4 voice drum machine that is powered from the MIDI data line.
+1. [MIDIvampire II](http://www.openmusiclabs.com/projects/midivamp2/index.html) — 4 voice drum machine that is powered from the MIDI data line
 1. [Matrix sequencer](https://github.com/CaratacusPotts/Matrix-Sequencer) — Standalone MIDI sequencer
 1. [Meeblip Micro](https://github.com/MeeBlip/meeblip-circuits) — Hackable monophonic synth
 1. [Meeblip SE](https://github.com/MeeBlip/meeblip-circuits) — Hackable monophonic synth
-1. [Meeblip Triode](https://github.com/MeeBlip/meeblip-triode) — Hackable monophonic synth based on atmega32
+1. [Meeblip Triode](https://github.com/MeeBlip/meeblip-triode) — Hackable monophonic synth based on ATmega32
 1. [Mega MIDI](https://github.com/AidanHockey5/MegaMIDI) — MIDI-compatible Sega Genesis/Megadrive synthesizer with real sound chips
 1. [Mini Dexed](https://github.com/probonopd/MiniDexed) — FM synthesizer closely modeled on the famous DX7
-1. [Mixtape Alpha](http://wiki.openmusiclabs.com/wiki/MixtapeAlpha) — Credit-card sized Atmega328 4 voice synth
+1. [Mixtape Alpha](http://wiki.openmusiclabs.com/wiki/MixtapeAlpha) — Credit-card sized ATmega328 4 voice synth
 1. [Mushsynth-8](https://oshwlab.com/eugeniy.carlo/touchdrone_copy_copy_copy_copy) — 8-voice polyphonic drone synth with a touch keyboard
 1. [N32B](https://github.com/Shik-Tech/N32B) — Hi-res macro MIDI controller
 1. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) — An experimental physical interface for the NSynth AI algorithm
 1. [NTH synth](https://github.com/NTHSynth/NTH_DSP) — 8-bit hackable mono synth
-1. [Nano Minipops](https://github.com/NANOmodules/NANO-Minipops) — Korg Minipops drum machine made around Arduino
+1. [Nano minipops](https://github.com/NANOmodules/NANO-Minipops) — Korg Minipops drum machine made around Arduino
 1. [Noise Toaster](https://musicfromouterspace.com/index.php?CATPARTNO=PCBMFNTSTNONE01&PROJARG=NOISETOASTER/NOISETOASTER.php&MAINTAB=SYNTHDIY&SONGID=NONE&VPW=1331&VPH=1233) — Simple, full analog noise synth
 1. [NoiseLab](https://oshwlab.com/eugeniy.carlo/noisebox-1-0_copy) — Analog noise synthesizer
 1. [Norns shield](https://github.com/monome/norns-shield) — Dynamic instrument, creation platform and musical computer 
@@ -50,6 +51,7 @@ your building experience.
 1. [Overcycler](https://github.com/gligli/overcycler) — Polyphonic hybrid single cycle / analog synthesizer
 1. [POLY555](https://github.com/oskitone/poly555) — Polyphonic, analog, square wave synth based on the 555 timer
 1. [Paper Bits](https://paperpcb.dernulleffekt.de/doku.php?id=paper_bits:paper_bits_main) — Small, modular synthesizer system. Voltage controlled, stripboard compatible.
+1. [PicoTracker](https://github.com/xiphonics/picoTracker) — Low cost music tracker platform
 1. [Plinky](https://github.com/plinkysynth/plinky_public/tree/main) — 8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds
 1. [Polaron](https://github.com/zueblin/Polaron) — Digital drum machine based on Teensy 3
 1. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) — Full analog, semi modular synthesizer
@@ -74,8 +76,7 @@ your building experience.
 1. [Yowler](https://github.com/cfoge/the_Yowler) — Compact and versatile noise/drone synth
 1. [ZeKit](https://github.com/Marzac/zekit) — 4 voice paraphonic synth
 1. [Zynthian](https://zynthian.org/) — Open platform for sound synthesis & processing
-1. [picoTracker](https://github.com/xiphonics/picoTracker) — Low cost music tracker platform
 1. [x0x heart](http://www.openmusiclabs.com/projects/x0x-heart/) — Heart of the Roland TB-303, surgically extracted to be transplanted into your designs
 1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 synthesizer, with fully functional sequencer
 
-> upd: 2025-03-25
+> upd: 2025-03-27

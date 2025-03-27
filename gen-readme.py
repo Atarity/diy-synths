@@ -28,7 +28,7 @@ def extract_front_matter(content):
         fields[field] = value.strip('"')
 
     # Ensure required fields are present
-    if not all(k in fields for k in "title", "link", "description")):
+    if not all(k in fields for k in ("title", "link", "description")):
         return None
 
     return fields
