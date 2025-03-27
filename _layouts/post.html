@@ -9,7 +9,7 @@ layout: none
         <div class="item-wrap" style="display: flex;">
             <span><a href="{{ site.baseurl }}/">← back</a></span>
             <div class="item-inner">
-                <div class="item-name">{{ page.name }}</div>
+                <div class="item-name">{{ page.title }}</div>
                 <div class="item-field item-description">{{ page.description }}</div>
 
                 <div class="item-field item-tags">
@@ -24,7 +24,7 @@ layout: none
                     <img src="{{ page.pic }}" />
                 </div>
 
-                <div class="item-field item-notes">{{ page.notes }}</div>
+                <!-- <div class="item-field item-notes">{{ page.notes }}</div> -->
 
                 {% assign cont = page.content | strip %}
                 {% if cont.size > 0 %}

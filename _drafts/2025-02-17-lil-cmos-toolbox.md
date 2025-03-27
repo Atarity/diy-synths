@@ -11,6 +11,7 @@ demo: https://www.youtube.com/watch?v=F06fM2n9Yoc
 pic: ../pics/lil-cmos-toolbox.jpg
 description: "CMOS-based semi-modular synthesizer"
 notes: "The idea started as an expander for the Behringer Neutron. The Toolbox provides a ring-modulator (quite similar to the one in the Korg MS-20) and a sub-oscillator."
+ata-rating: 5
 artifacts:
   - Schematic: true
   - PCB: false

@@ -1,16 +1,14 @@
 ---
 layout: post
-title: "Lunchbeat"
 date: 2025-02-17 11:11:59 +0000
 categories: synths
-
-name: Lunchbeat
+title: "Lunchbeat"
 author: Buranelectrix
 link: https://github.com/buranelectrix/lunchbeat-PCB
 demo: https://www.youtube.com/watch?v=9ZvAgihcfdg
 pic: ../pics/lunchbeat.jpg
 description: "1-bit percussion sounds and a sequencer"
-notes: "The grittiest drum machine ever. "
+ata-rating: 5
 artifacts:
   - Schematic: true
   - PCB: true
@@ -22,3 +20,4 @@ tags: [Drum,Digital,Sequencer]
 level: Newbe
 ---
 
+The grittiest drum machine ever.

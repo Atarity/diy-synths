@@ -6,13 +6,12 @@ layout: none
 {%- for item in sortedPosts %}
     {
         "permalink":{{- item.url | jsonify }},
-        "name":{{- item.name | jsonify }},
+        "name":{{- item.title | jsonify }},
         "author":{{- item.author | jsonify }},
         "link":{{- item.link | jsonify }},
         "demo":{{- item.demo | jsonify }},
         "picture":{{- item.pic | jsonify }},
         "description":{{- item.description | jsonify }},
-        "notes":{{- item.notes | jsonify }},
         "artifacts":{{- item.artifacts | jsonify }},
         "tags":{{- item.tags | jsonify }},
         "level":{{- item.level | jsonify }}

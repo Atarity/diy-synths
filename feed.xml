@@ -23,7 +23,7 @@ layout: none
 					<![CDATA[
 					<img src="{{ site.url }}{{ site.baseurl }}{{ post.pic | remove_first: ".." }}" alt="Title image">
                     <p>{{ post.description }}</p>
-					<p><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">view on {{ site.title }}</a></p>
+					<p><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">view in {{ site.title }}</a></p>
 					]]>
 				</description>
 				<pubDate>

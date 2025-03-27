@@ -14,7 +14,7 @@ your building experience.\n
 
 # Regex patterns for extracting YAML front matter fields
 YAML_PATTERN = re.compile(r"---\n(.*?)\n---", re.DOTALL)
-FIELD_PATTERN = re.compile(r"(name|link|description):\s*(.+)")
+FIELD_PATTERN = re.compile(r"(title|link|description):\s*(.+)")
 
 def extract_front_matter(content):
     """Extracts name, link, and description from the YAML front matter."""
@@ -28,7 +28,7 @@ def extract_front_matter(content):
         fields[field] = value.strip('"')
 
     # Ensure required fields are present
-    if not all(k in fields for k in ("name", "link", "description")):
+    if not all(k in fields for k in "title", "link", "description")):
         return None
 
     return fields
@@ -45,7 +45,7 @@ def generate_readme():
                 data = extract_front_matter(content)
 
                 if data:
-                    entries.append(f"1. [{data['name']}]({data['link']}) — {data['description']}")
+                    entries.append(f"1. [{data['title']}]({data['link']}) — {data['description']}")
                 else:
                     print(f"Warning: Missing required fields in {filename}")
 

@@ -18,7 +18,7 @@ class JList {
                {"name": "Artifacts", "field": "artifacts", "type": "tag"},
                {"name": "Author", "field": "author", "type": "select"},
             ],
-            searchFields: ["name", "author", "description", "notes", "tags", "level"]
+            searchFields: ["name", "author", "description", "tags", "level"]
         }, param);
 
         this.currentPage = 1;
@@ -660,7 +660,7 @@ class JList {
 
         const footer = document.querySelector("footer");
         const header = this.headerEl;
-        
+
         if (footer) {
 
             const footerRect = footer.getBoundingClientRect();

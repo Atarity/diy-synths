@@ -294,9 +294,9 @@ header.sticky {
     line-height: 32px;
 }
 
-.jlist-wrap .grid-item > a {
+/* .jlist-wrap .grid-item > a {
     pointer-events: none;
-}
+} */
 
 .jlist-wrap .item-inner {
     height: auto;
