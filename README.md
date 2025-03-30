@@ -55,6 +55,7 @@ your building experience.
 1. [Overcycler](https://github.com/gligli/overcycler) — Polyphonic hybrid single cycle / analog synthesizer
 1. [POLY555](https://github.com/oskitone/poly555) — Polyphonic, analog, square wave synth based on the 555 timer
 1. [Paper Bits](https://paperpcb.dernulleffekt.de/doku.php?id=paper_bits:paper_bits_main) — Small, modular synthesizer system. Voltage controlled, stripboard compatible.
+1. [PicoStepSeq](https://github.com/todbot/picostepseq) — 8-step MIDI sequencer
 1. [PicoTracker](https://github.com/xiphonics/picoTracker) — Low cost music tracker platform
 1. [Plinky](https://github.com/plinkysynth/plinky_public/tree/main) — 8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds
 1. [Polaron](https://github.com/zueblin/Polaron) — Digital drum machine based on Teensy 3
