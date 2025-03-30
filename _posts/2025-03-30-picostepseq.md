@@ -20,7 +20,7 @@ tags: [MIDI,PiPico,Sequencer]
 level: Intermediate
 ---
 
-RP2040 based sequencer made with CircuitPython. In use, PicoStepSeq has two states: Play and Pause. It is designed so you never have to stop playing to edit and save/load a sequence. It has 8 sequence slots that can be edited and are persistently saved to flash.
+RP2040-based sequencer made with CircuitPython. In use, PicoStepSeq has two states: Play and Pause. It is designed so you never have to stop playing to edit and save/load a sequence. It has 8 sequence slots that can be edited and are persistently saved to flash.
 
 Other projects from Tod:
 - [Picotouch synth](https://github.com/todbot/picotouch_synth)

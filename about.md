@@ -15,8 +15,8 @@ The best way to stay updated is to subscribe to the [RSS feed]({{ site.baseurl }
 
 ## Why project "X" not in the list?
 The minimum criteria for adding to the database are:
-- The project must have published schematics. For simple synths "visual" schematics (Fritzring-like) is ok.
-- If it's a digital device with a microcontroller, a firmware source code   must be available.
+- The project must have published schematics. For simple synths hand-drawn schematics, or Fritzring-like is ok.
+- For digital devices with a microcontroller, a firmware source code must be available.
 - Video demonstration is a must.
 
 You can find some of the projects was checked but not in the list due to different reasons. I'm trying to track such a projects on the [Watchlist page](/watchlist).
