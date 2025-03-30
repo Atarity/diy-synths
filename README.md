@@ -16,6 +16,7 @@ your building experience.
 1. [Arpie](https://six4pix.com/product/arpie/) — Compact, highly-functional, MIDI arpeggiator
 1. [BE2N](https://www.jolinlab.com/be2n/) — Full-fledged voice module with two specular Benjolins at its core
 1. [Beam Catcher](https://github.com/uvknhn/Beam-Catcher) — Analog light-based synthesizer
+1. [Bread Modular](https://www.breadmodular.com/) — Affordable, compact modular synth platform
 1. [Coron DS7 (DS8)](http://m.bareille.free.fr/ds7clone/ds8.htm) — Percussion & drum synth
 1. [Drone & Drama](https://github.com/bjc01/D-D_Teensy) — Simple Teensy-based drone synth
 1. [DrumKid](https://github.com/mattybrad/drumkid) — Lo-fi aleatoric Arduino drum machine
@@ -23,6 +24,7 @@ your building experience.
 1. [Faderbank 16n](https://github.com/16n-faderbank/16n) — 16 faders MIDI-controller compatible with modular world
 1. [Fasma Festival](https://github.com/ghztomash/fasma_drum) — Yet another Teensy drum machine with clock sync
 1. [Flounder](https://github.com/MattKuebrich/flounder) — Teensy based USB midi keyboard + controls + stereo audio
+1. [Grandbot](https://github.com/handeyeco/Grandbot) — Generative, pattern-based MIDI arpeggiator
 1. [Hog](https://github.com/shmoergh/hog/tree/main?tab=readme-ov-file) — Double-voice analog monophonic synthesizer with two oscillators
 1. [Hypjolin](https://github.com/triglav-modular/Hypjolin) — Cross-modulating ultra-chaos generator
 1. [Kelpie](https://github.com/friedpies/kelpie-pocket-synth) — Portable polyphonic digital synthesizer
@@ -30,6 +32,7 @@ your building experience.
 1. [Le Strum](https://github.com/hotchk155/Voici-Le-Strum) — Compact and simple yet funny MIDI strummer
 1. [Lil' mono](https://github.com/diysynth/STANDALONE-DEVICES/tree/main/LIL'-MONO-SYNTH) — Simple east-coast style analog synthesizer
 1. [Lunchbeat](https://github.com/buranelectrix/lunchbeat-PCB) — 1-bit percussion sounds and a sequencer
+1. [MIDIbox](http://ucapps.de/) — MIDI hardware platform
 1. [MIDIvampire II](http://www.openmusiclabs.com/projects/midivamp2/index.html) — 4 voice drum machine that is powered from the MIDI data line
 1. [Matrix sequencer](https://github.com/CaratacusPotts/Matrix-Sequencer) — Standalone MIDI sequencer
 1. [Meeblip Micro](https://github.com/MeeBlip/meeblip-circuits) — Hackable monophonic synth
@@ -48,6 +51,7 @@ your building experience.
 1. [Norns shield](https://github.com/monome/norns-shield) — Dynamic instrument, creation platform and musical computer 
 1. [OTTO](https://github.com/bitfieldaudio/OTTO) — Digital groovebox with synths, looper, samplers, effects and a sequencer
 1. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) — Platform for ultimate MIDI control deck building
+1. [Ottopot](https://gerotakke.de/ottopot/) — Hi-res USB-MIDI controller
 1. [Overcycler](https://github.com/gligli/overcycler) — Polyphonic hybrid single cycle / analog synthesizer
 1. [POLY555](https://github.com/oskitone/poly555) — Polyphonic, analog, square wave synth based on the 555 timer
 1. [Paper Bits](https://paperpcb.dernulleffekt.de/doku.php?id=paper_bits:paper_bits_main) — Small, modular synthesizer system. Voltage controlled, stripboard compatible.
@@ -70,13 +74,12 @@ your building experience.
 1. [Totoro](https://github.com/Atarity/totoro-synth) — Cheap and easy to solder 2 oscillators synth on single IC
 1. [WTPA2 (Where is the party at 2)](http://blog.narrat1ve.com/wtpa2/) — 8-bit audio sampler kit
 1. [Wee Noise Maker](https://hackaday.io/project/19326-wee-noise-maker) — Pocket size sampler/sequencer with DAC, headphone amplifier and audio input
-1. [Wirehead Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) — Dual-voice, 2 operator 8-bit FM Arduino Synth in Volca form-factor
+1. [Wirehead Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) — Dual-voice, 2 operator, 8-bit FM Arduino synth in Volca form-factor
 1. [Wirehead Mutant](https://github.com/Meebleeps/MeeBleeps-Mutant-Synth) — 8-bit, 2-oscillator subtractive Arduino synth for generative techno in Volca form-factor
 1. [YM2149 Synth](https://github.com/trash80/Ym2149Synth) — Little chip that was used in various retro arcade machines and consoles now ready to serve
 1. [Yowler](https://github.com/cfoge/the_Yowler) — Compact and versatile noise/drone synth
 1. [ZeKit](https://github.com/Marzac/zekit) — 4 voice paraphonic synth
 1. [Zynthian](https://zynthian.org/) — Open platform for sound synthesis & processing
-1. [x0x heart](http://www.openmusiclabs.com/projects/x0x-heart/) — Heart of the Roland TB-303, surgically extracted to be transplanted into your designs
 1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 synthesizer, with fully functional sequencer
 
-> upd: 2025-03-27
+> upd: 2025-03-30

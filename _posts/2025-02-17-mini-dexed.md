@@ -16,7 +16,7 @@ artifacts:
   - FW: true
   - Docs: true
   - Enclosure: true
-tags: [Digital,Raspberry,MIDI]
+tags: [Digital,Raspberry,MIDI,FM]
 level: Newbe
 ---
 

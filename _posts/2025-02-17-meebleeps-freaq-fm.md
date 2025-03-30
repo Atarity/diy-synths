@@ -7,7 +7,7 @@ author: Wirehead
 link: https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth
 demo: https://www.youtube.com/watch?v=KD6IrcmMkoA
 pic: ../pics/meebleeps-freaq-fm.jpg
-description: "Dual-voice, 2 operator 8-bit FM Arduino Synth in Volca form-factor"
+description: "Dual-voice, 2 operator, 8-bit FM Arduino synth in Volca form-factor"
 ata-rating: 5
 artifacts:
   - Schematic: true
@@ -16,7 +16,7 @@ artifacts:
   - FW: true
   - Docs: false
   - Enclosure: true
-tags: [Arduino,Digital,Monophonic,Sequencer]
+tags: [Arduino,Digital,Monophonic,Sequencer,FM]
 level: Newbe
 ---
 

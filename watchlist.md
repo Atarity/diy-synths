@@ -8,16 +8,16 @@ Projects below were checked by me, but wasn't published (probably, temporary) by
 
 ## Checked, not published
 1. [Microdexed touch](https://codeberg.org/positionhigh/MicroDexed-touch)
-    - 2025-03-20: Too much no-name modules in the HW design.
+    - 2025-03-20: Too many no-name modules in the HW design.
     - alive: 3w
 1. [Teensy Juno](https://github.com/wang-edward/teensy-juno)
     - 2025-03-20: HW not yet released.
     - alive: 2m
 1. [Tulipcc](https://github.com/shorepine/tulipcc)
-    - 2025-03-20: It is, well, general purpose ESP32 computer with touch-screen?! Not related to music equipment much.
+    - 2025-03-20: Well... Is it general purpose ESP32-based computer with touch-screen?
     - alive: 1d
 1. [mlSynth](https://github.com/marcel-licence/ml_synth_basic_example)
-    - 2025-03-20: There is no HW. Now it is more sound engine suitable for multiple HW platforms.
+    - 2025-03-20: There is no HW. Looks more like the sound engine which is suitable for multiple HW platforms.
     - alive: 5m
 1. [AcidBox](https://github.com/copych/AcidBox)
     - 2025-03-20: Waiting for HW interface.
@@ -25,15 +25,23 @@ Projects below were checked by me, but wasn't published (probably, temporary) by
 1. [TSynth (T4.1)](https://github.com/ElectroTechnique/TSynth-Teensy4.1)
     - 2025-03-20: No main PCB source or gerbers.
     - alive: 7m
-1. [Oskitone Scout](https://github.com/oskitone/scout)
-    - 2025-03-20: Absurdly simple while well designed device (I need to add it btw)
-    - alive: 7d
+1. [ItsyBitsy M0 Synth (Sigma-6 voice module)](https://www.mjbauer.biz/Sigma6_M0_synth_weblog.htm)
+    - 2025-03-30: No demo published yet. No standalone implementation. Adafruit ATSAMD devboard with no EoL.
+    - alive: 6d
 
 ## To check
-1. [SynthCard by Benji](https://benjiaomodular.com/post/2022-11-26-synthcard/)
-1. [ItsyBitsy M0 Synth](https://www.mjbauer.biz/Sigma6_M0_synth_weblog.htm)
-1. [Ottopot controller](https://gerotakke.de/ottopot/)
-1. [Bread modular system](https://github.com/bread-modular/bread-modular)
+1. [~~SynthCard by Benji~~](https://benjiaomodular.com/post/2022-11-26-synthcard/)
+    - 2025-03-30: Added as additional link to [APC](/synths/attiny-punk-console)
+1. [~~Ottopot controller~~](https://gerotakke.de/ottopot/)
+    - 2025-03-30: [Added](/synths/ottopot)
+1. [~~Bread modular system~~](https://github.com/bread-modular/bread-modular)
+    - 2025-03-30: [Added](/synths/bread-modular)
+1. [~~MIDIbox~~](http://ucapps.de/)
+    - 2025-03-30: [Added](/synths/midibox)
+1. [~~Grandbot~~](https://github.com/handeyeco/Grandbot)
+    - 2025-03-30: [Added](/synths/grandbot)
+1. [~~Oskitone Scout~~](https://github.com/oskitone/scout)
+    - 2025-03-30: Added as additional link to [POLY555](/synths/poly555)
 
 ## Worth to mention
 1. [Dart One MIDI controller](https://dartmobo.com/dart-one-arduino-open-controller-arcade/)
