@@ -65,6 +65,7 @@ your building experience.
 1. [Protean](https://github.com/pangrus/Protean/tree/master) — ATtiny-based motion texture source
 1. [Quantum DJ](https://warmplace.ru/hard/qdj/?fbclid=IwAR3kJHlGsxXUGChfXL_qjapHxT5TMV6Du6AfpE0VJ6x5OJzYAFS-qSvjPYk) — Electromagnetic noise to 1-bit sound converter
 1. [Real SID shield](https://github.com/emceha/RealSIDShield) — Digital interface to SID chip of Commodore 64
+1. [Roundabout](https://github.com/MattKuebrich/roundabout) — Compact, CMOS-based, patchable synth
 1. [S54 Liv's Synth](https://github.com/SloBloLabs/LivSynth/tree/main) — Hybrid mono synth with full analogue signal path
 1. [SC1000](https://github.com/rasteri/SC1000/tree/master) — Portable digital scratch instrument
 1. [Shruthi](https://mutable-instruments.net/archive/shruthi/build/) — Hybrid synth with digital generators and swappable analog filter boards
@@ -83,4 +84,4 @@ your building experience.
 1. [Zynthian](https://zynthian.org/) — Open platform for sound synthesis & processing
 1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 synthesizer, with fully functional sequencer
 
-> upd: 2025-03-30
+> upd: 2025-04-02
