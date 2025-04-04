@@ -14,7 +14,6 @@ your building experience.
 1. [Anushri](https://mutable-instruments.net/archive/) — Analog monosynth with a lo-fi digital drums
 1. [ArduTouch](https://github.com/maltman23/ArduTouch/tree/master) — Arduino-compatible music synthesizer
 1. [Arpie](https://six4pix.com/product/arpie/) — Compact, highly-functional, MIDI arpeggiator
-1. [BE2N](https://www.jolinlab.com/be2n/) — Full-fledged voice module with two specular Benjolins at its core
 1. [Beam Catcher](https://github.com/uvknhn/Beam-Catcher) — Analog light-based synthesizer
 1. [Bread Modular](https://www.breadmodular.com/) — Affordable, compact modular synth platform
 1. [Coron DS7 (DS8)](http://m.bareille.free.fr/ds7clone/ds8.htm) — Percussion & drum synth
@@ -49,6 +48,7 @@ your building experience.
 1. [Noise Toaster](https://musicfromouterspace.com/index.php?CATPARTNO=PCBMFNTSTNONE01&PROJARG=NOISETOASTER/NOISETOASTER.php&MAINTAB=SYNTHDIY&SONGID=NONE&VPW=1331&VPH=1233) — Simple, full analog noise synth
 1. [NoiseLab](https://oshwlab.com/eugeniy.carlo/noisebox-1-0_copy) — Analog noise synthesizer
 1. [Norns shield](https://github.com/monome/norns-shield) — Dynamic instrument, creation platform and musical computer 
+1. [Nyblcore](https://github.com/schollz/nyblcore) — Tiny ATtiny85-based sample player device
 1. [OTTO](https://github.com/bitfieldaudio/OTTO) — Digital groovebox with synths, looper, samplers, effects and a sequencer
 1. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) — Platform for ultimate MIDI control deck building
 1. [Ottopot](https://gerotakke.de/ottopot/) — Hi-res USB-MIDI controller
@@ -57,6 +57,7 @@ your building experience.
 1. [Paper Bits](https://paperpcb.dernulleffekt.de/doku.php?id=paper_bits:paper_bits_main) — Small, modular synthesizer system. Voltage controlled, stripboard compatible.
 1. [PicoStepSeq](https://github.com/todbot/picostepseq) — 8-step MIDI sequencer
 1. [PicoTracker](https://github.com/xiphonics/picoTracker) — Low cost music tracker platform
+1. [Pikocore](https://github.com/schollz/pikocore) — Hackable, lo-fi music mangler based on the Raspberry Pi Pico
 1. [Plinky](https://github.com/plinkysynth/plinky_public/tree/main) — 8-voice polyphonic touch synthesizer that specializes in fragile, melancholic sounds
 1. [Polaron](https://github.com/zueblin/Polaron) — Digital drum machine based on Teensy 3
 1. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) — Full analog, semi modular synthesizer
@@ -81,7 +82,8 @@ your building experience.
 1. [YM2149 Synth](https://github.com/trash80/Ym2149Synth) — Little chip that was used in various retro arcade machines and consoles now ready to serve
 1. [Yowler](https://github.com/cfoge/the_Yowler) — Compact and versatile noise/drone synth
 1. [ZeKit](https://github.com/Marzac/zekit) — 4 voice paraphonic synth
+1. [Zeptocore](https://github.com/schollz/_core) — Player and synthesizer, featuring stereo playback
 1. [Zynthian](https://zynthian.org/) — Open platform for sound synthesis & processing
 1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 synthesizer, with fully functional sequencer
 
-> upd: 2025-04-02
+> upd: 2025-04-04
