@@ -39,6 +39,7 @@ your building experience.
 1. [Meeblip Triode](https://github.com/MeeBlip/meeblip-triode) — Hackable monophonic synth based on ATmega32
 1. [Mega MIDI](https://github.com/AidanHockey5/MegaMIDI) — MIDI-compatible Sega Genesis/Megadrive synthesizer with real sound chips
 1. [Mini Dexed](https://github.com/probonopd/MiniDexed) — FM synthesizer closely modeled on the famous DX7
+1. [MiniMO](https://github.com/enveloop/miniMO) — ATtiny85 mini modular system
 1. [Mixtape Alpha](http://wiki.openmusiclabs.com/wiki/MixtapeAlpha) — Credit-card sized ATmega328 4 voice synth
 1. [Mushsynth-8](https://oshwlab.com/eugeniy.carlo/touchdrone_copy_copy_copy_copy) — 8-voice polyphonic drone synth with a touch keyboard
 1. [N32B](https://github.com/Shik-Tech/N32B) — Hi-res macro MIDI controller
