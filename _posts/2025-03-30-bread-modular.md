@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-03-24 08:10:46 +0000
+date: 2025-03-30 08:10:46 +0000
 categories: synths
 title: "Bread Modular"
 author: "Bread Modular"

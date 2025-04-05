@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-04-02 07:14:46 +0000
+date: 2025-04-04 07:14:46 +0000
 categories: synths
 title: "Zeptocore"
 author: "Zack Schollz"

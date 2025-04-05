@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-03-24 07:10:46 +0000
+date: 2025-03-26 07:10:46 +0000
 categories: synths
 title: "Beam Catcher"
 author: Loess Labs

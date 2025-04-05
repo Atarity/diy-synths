@@ -26,6 +26,7 @@ your building experience.
 1. [Grandbot](https://github.com/handeyeco/Grandbot) — Generative, pattern-based MIDI arpeggiator
 1. [Hog](https://github.com/shmoergh/hog/tree/main?tab=readme-ov-file) — Double-voice analog monophonic synthesizer with two oscillators
 1. [Hypjolin](https://github.com/triglav-modular/Hypjolin) — Cross-modulating ultra-chaos generator
+1. [Kastle](https://github.com/bastl-instruments/kastle) — Lo-fi, pocketable modular synth
 1. [Kelpie](https://github.com/friedpies/kelpie-pocket-synth) — Portable polyphonic digital synthesizer
 1. [LMN-3](https://github.com/FundamentalFrequency) — OP-1 inspired DAW-in-a-box
 1. [Le Strum](https://github.com/hotchk155/Voici-Le-Strum) — Compact and simple yet funny MIDI strummer

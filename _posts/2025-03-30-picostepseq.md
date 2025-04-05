@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-03-24 07:12:46 +0000
+date: 2025-03-30 07:12:46 +0000
 categories: synths
 title: "PicoStepSeq"
 author: "Tod Kurt"
