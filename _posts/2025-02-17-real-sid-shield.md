@@ -11,7 +11,8 @@ description: "Digital interface to SID chip of Commodore 64"
 ata-rating: 5
 artifacts:
   - Schematic: true
-  - PCB: true
+  - PCB source: true
+  - Gerbers: true
   - BOM: true
   - FW: true
   - Docs: false

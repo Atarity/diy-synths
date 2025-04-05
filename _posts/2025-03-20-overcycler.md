@@ -11,7 +11,8 @@ description: "Polyphonic hybrid single cycle / analog synthesizer"
 ata-rating: 4
 artifacts:
   - Schematic: true
-  - PCB: true
+  - PCB source: true
+  - Gerbers: true
   - BOM: true
   - FW: true
   - Docs: true

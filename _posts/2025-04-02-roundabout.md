@@ -11,7 +11,8 @@ description: "Compact, CMOS-based, patchable synth"
 ata-rating: 4
 artifacts:
   - Schematic: true
-  - PCB: true
+  - PCB source: false
+  - Gerbers: true
   - BOM: true
   - FW: false
   - Docs: false

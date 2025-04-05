@@ -11,7 +11,8 @@ description: "Credit-card sized ATmega328 4 voice synth"
 ata-rating: 2
 artifacts:
   - Schematic: true
-  - PCB: true
+  - PCB source: true
+  - Gerbers: true
   - BOM: true
   - FW: true
   - Docs: true

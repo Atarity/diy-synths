@@ -14,7 +14,7 @@ notes: "The idea started as an expander for the Behringer Neutron. The Toolbox p
 ata-rating: 5
 artifacts:
   - Schematic: true
-  - PCB: false
+  - PCB source: false
   - BOM: true
   - FW: false
   - Docs: false

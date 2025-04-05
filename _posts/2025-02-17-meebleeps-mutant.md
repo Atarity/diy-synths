@@ -11,7 +11,8 @@ description: "8-bit, 2-oscillator subtractive Arduino synth for generative techn
 ata-rating: 4
 artifacts:
   - Schematic: true
-  - PCB: false
+  - PCB source: false
+  - Gerbers: false
   - BOM: true
   - FW: true
   - Docs: false

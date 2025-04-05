@@ -11,7 +11,8 @@ description: "Dynamic instrument, creation platform and musical computer "
 ata-rating: 5
 artifacts:
   - Schematic: true
-  - PCB: true
+  - PCB source: true
+  - Gerbers: false
   - BOM: true
   - FW: true
   - Docs: true

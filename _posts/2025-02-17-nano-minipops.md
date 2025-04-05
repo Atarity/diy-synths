@@ -11,7 +11,8 @@ description: "Korg Minipops drum machine made around Arduino"
 ata-rating: 3
 artifacts:
   - Schematic: true
-  - PCB: true
+  - PCB source: true
+  - Gerbers: true
   - BOM: true
   - FW: true
   - Docs: false

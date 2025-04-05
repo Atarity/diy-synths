@@ -11,7 +11,8 @@ description: "Simple Teensy-based drone synth"
 ata-rating: 2
 artifacts:
   - Schematic: true
-  - PCB: false
+  - PCB source: false
+  - Gerbers: true
   - BOM: true
   - FW: true
   - Docs: false

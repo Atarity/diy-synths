@@ -11,7 +11,8 @@ description: "An experimental physical interface for the NSynth AI algorithm"
 ata-rating: 2
 artifacts:
   - Schematic: true
-  - PCB: true
+  - PCB source: true
+  - Gerbers: false
   - BOM: true
   - FW: true
   - Docs: true

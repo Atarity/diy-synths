@@ -4,14 +4,15 @@ date: 2025-02-17 11:12:19 +0000
 categories: synths
 title: "ArduTouch"
 author: Mitch Altman
-link: https://github.com/maltman23/ArduTouch/tree/master
+link: https://github.com/maltman23/ArduTouch
 demo: https://www.youtube.com/watch?v=77Z3uCmT7yM
 pic: ../pics/ardutouch.jpg
 description: "Arduino-compatible music synthesizer"
 ata-rating: 4
 artifacts:
   - Schematic: true
-  - PCB: true
+  - PCB source: true
+  - Gerbers: true
   - BOM: true
   - FW: true
   - Docs: true

@@ -11,7 +11,8 @@ description: "Full analog descendant of Sound Lab Mini-Synth"
 ata-rating: 5
 artifacts:
   - Schematic: true
-  - PCB: false
+  - PCB source: false
+  - Gerbers: false
   - BOM: true
   - FW: false
   - Docs: true

@@ -11,7 +11,8 @@ description: "8-bit audio sampler kit"
 ata-rating: 2
 artifacts:
   - Schematic: true
-  - PCB: true
+  - PCB source: true
+  - Gerbers: false
   - BOM: false
   - FW: true
   - Docs: true

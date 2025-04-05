@@ -8,11 +8,12 @@ link: https://github.com/noisio/ATtiny-Punk-Console
 demo: https://www.youtube.com/watch?v=xHvSwE6VFqs
 pic: ../pics/attiny-punk-console.jpg
 description: "ATtiny85 implementation of Atari Punk Console"
-ata-rating: 3
+ata-rating: 2
 artifacts:
   - Schematic: true
-  - PCB: false
-  - BOM: true
+  - PCB source: false
+  - Gerbers: false
+  - BOM: false
   - FW: true
   - Docs: false
   - Enclosure: false

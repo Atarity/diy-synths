@@ -11,7 +11,8 @@ description: "Hackable monophonic synth"
 ata-rating: 5
 artifacts:
   - Schematic: true
-  - PCB: true
+  - PCB source: true
+  - Gerbers: false
   - BOM: false
   - FW: true
   - Docs: true

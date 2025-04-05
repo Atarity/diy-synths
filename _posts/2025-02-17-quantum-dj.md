@@ -11,7 +11,8 @@ description: "Electromagnetic noise to 1-bit sound converter"
 ata-rating: 5
 artifacts:
   - Schematic: true
-  - PCB: false
+  - PCB source: false
+  - Gerbers: true
   - BOM: true
   - FW: true
   - Docs: false

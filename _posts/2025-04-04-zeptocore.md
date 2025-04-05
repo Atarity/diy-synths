@@ -11,7 +11,8 @@ description: "Player and synthesizer, featuring stereo playback"
 ata-rating: 5
 artifacts:
   - Schematic: true
-  - PCB: false
+  - PCB source: false
+  - Gerbers: false
   - BOM: false
   - FW: true
   - Docs: true

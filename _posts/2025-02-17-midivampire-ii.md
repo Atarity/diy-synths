@@ -4,14 +4,15 @@ date: 2025-02-17 11:12:04 +0000
 categories: synths
 title: "MIDIvampire II"
 author: Open Music Labs
-link: http://www.openmusiclabs.com/projects/midivamp2/index.html
+link: http://wiki.openmusiclabs.com/wiki/MidiVamp2
 demo: https://www.youtube.com/watch?v=oQt7cyDuBHY
 pic: ../pics/midivampire.jpg
 description: "4 voice drum machine that is powered from the MIDI data line"
 ata-rating: 4
 artifacts:
   - Schematic: true
-  - PCB: true
+  - PCB source: true
+  - Gerbers: true
   - BOM: true
   - FW: true
   - Docs: true

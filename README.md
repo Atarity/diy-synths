@@ -12,7 +12,7 @@ your building experience.
 1. [Aciduino](https://github.com/midilab/aciduino/tree/master/v1/) — Roland TB-303 step sequencer clone aimed for live interaction
 1. [Ambika](https://mutable-instruments.net/archive/) — Multi-voice, hybrid synthesizer. Descendant of Shruthi.
 1. [Anushri](https://mutable-instruments.net/archive/) — Analog monosynth with a lo-fi digital drums
-1. [ArduTouch](https://github.com/maltman23/ArduTouch/tree/master) — Arduino-compatible music synthesizer
+1. [ArduTouch](https://github.com/maltman23/ArduTouch) — Arduino-compatible music synthesizer
 1. [Arpie](https://six4pix.com/product/arpie/) — Compact, highly-functional, MIDI arpeggiator
 1. [Beam Catcher](https://github.com/uvknhn/Beam-Catcher) — Analog light-based synthesizer
 1. [Bread Modular](https://www.breadmodular.com/) — Affordable, compact modular synth platform
@@ -24,16 +24,16 @@ your building experience.
 1. [Fasma Festival](https://github.com/ghztomash/fasma_drum) — Yet another Teensy drum machine with clock sync
 1. [Flounder](https://github.com/MattKuebrich/flounder) — Teensy based USB midi keyboard + controls + stereo audio
 1. [Grandbot](https://github.com/handeyeco/Grandbot) — Generative, pattern-based MIDI arpeggiator
-1. [Hog](https://github.com/shmoergh/hog/tree/main?tab=readme-ov-file) — Double-voice analog monophonic synthesizer with two oscillators
+1. [Hog](https://github.com/shmoergh/hog/) — Double-voice analog monophonic synthesizer with two oscillators
 1. [Hypjolin](https://github.com/triglav-modular/Hypjolin) — Cross-modulating ultra-chaos generator
 1. [Kastle](https://github.com/bastl-instruments/kastle) — Lo-fi, pocketable modular synth
 1. [Kelpie](https://github.com/friedpies/kelpie-pocket-synth) — Portable polyphonic digital synthesizer
 1. [LMN-3](https://github.com/FundamentalFrequency) — OP-1 inspired DAW-in-a-box
 1. [Le Strum](https://github.com/hotchk155/Voici-Le-Strum) — Compact and simple yet funny MIDI strummer
-1. [Lil' mono](https://github.com/diysynth/STANDALONE-DEVICES/tree/main/LIL'-MONO-SYNTH) — Simple east-coast style analog synthesizer
+1. [Lil' mono](https://github.com/diysynth/STANDALONE-DEVICES) — Simple east-coast style analog synthesizer
 1. [Lunchbeat](https://github.com/buranelectrix/lunchbeat-PCB) — 1-bit percussion sounds and a sequencer
 1. [MIDIbox](http://ucapps.de/) — MIDI hardware platform
-1. [MIDIvampire II](http://www.openmusiclabs.com/projects/midivamp2/index.html) — 4 voice drum machine that is powered from the MIDI data line
+1. [MIDIvampire II](http://wiki.openmusiclabs.com/wiki/MidiVamp2) — 4 voice drum machine that is powered from the MIDI data line
 1. [Matrix sequencer](https://github.com/CaratacusPotts/Matrix-Sequencer) — Standalone MIDI sequencer
 1. [Meeblip Micro](https://github.com/MeeBlip/meeblip-circuits) — Hackable monophonic synth
 1. [Meeblip SE](https://github.com/MeeBlip/meeblip-circuits) — Hackable monophonic synth
@@ -65,11 +65,11 @@ your building experience.
 1. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) — Full analog, semi modular synthesizer
 1. [Portable synth](https://github.com/prajwal1121/Portable-Synth) — OP-1 style portable groovebox based on Teensy 4
 1. [PreenFM 2](https://github.com/Ixox/preenfm2) — Beloved old FM synthesis in small, modern DIY box
-1. [Protean](https://github.com/pangrus/Protean/tree/master) — ATtiny-based motion texture source
+1. [Protean](https://github.com/pangrus/Protean) — ATtiny-based motion texture source
 1. [Quantum DJ](https://warmplace.ru/hard/qdj/?fbclid=IwAR3kJHlGsxXUGChfXL_qjapHxT5TMV6Du6AfpE0VJ6x5OJzYAFS-qSvjPYk) — Electromagnetic noise to 1-bit sound converter
 1. [Real SID shield](https://github.com/emceha/RealSIDShield) — Digital interface to SID chip of Commodore 64
 1. [Roundabout](https://github.com/MattKuebrich/roundabout) — Compact, CMOS-based, patchable synth
-1. [S54 Liv's Synth](https://github.com/SloBloLabs/LivSynth/tree/main) — Hybrid mono synth with full analogue signal path
+1. [S54 Liv's Synth](https://github.com/SloBloLabs/LivSynth) — Hybrid mono synth with full analogue signal path
 1. [SC1000](https://github.com/rasteri/SC1000/tree/master) — Portable digital scratch instrument
 1. [Shruthi](https://mutable-instruments.net/archive/shruthi/build/) — Hybrid synth with digital generators and swappable analog filter boards
 1. [Sound Lab Mini-Synth MkII](https://musicfromouterspace.com/index.php?CATPARTNO=SLMSMARKIIPCB&PROJARG=SOUNDLABMINIMARKII/page1.php&MAINTAB=SYNTHDIY&SONGID=NONE&VPW=1071&VPH=1229) — Full analog descendant of Sound Lab Mini-Synth

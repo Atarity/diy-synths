@@ -11,7 +11,8 @@ description: "Pocket size sampler/sequencer with DAC, headphone amplifier and au
 ata-rating: 3
 artifacts:
   - Schematic: true
-  - PCB: true
+  - PCB source: true
+  - Gerbers: false
   - BOM: false
   - FW: true
   - Docs: false

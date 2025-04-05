@@ -11,7 +11,8 @@ description: "1-bit percussion sounds and a sequencer"
 ata-rating: 3
 artifacts:
   - Schematic: true
-  - PCB: true
+  - PCB source: true
+  - Gerbers: false
   - BOM: false
   - FW: true
   - Docs: false

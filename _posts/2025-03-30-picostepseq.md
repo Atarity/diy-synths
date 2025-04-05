@@ -11,7 +11,8 @@ description: "8-step MIDI sequencer"
 ata-rating: 4
 artifacts:
   - Schematic: true
-  - PCB: true
+  - PCB source: true
+  - Gerbers: false
   - BOM: true
   - FW: true
   - Docs: false

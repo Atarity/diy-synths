@@ -11,7 +11,8 @@ description: "Yet another Teensy drum machine with clock sync"
 ata-rating: 3
 artifacts:
   - Schematic: true
-  - PCB: false
+  - PCB source: false
+  - Gerbers: true
   - BOM: true
   - FW: true
   - Docs: false

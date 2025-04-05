@@ -11,7 +11,8 @@ description: "Dual-voice, 2 operator, 8-bit FM synth in Volca form-factor"
 ata-rating: 4
 artifacts:
   - Schematic: true
-  - PCB: false
+  - PCB source: false
+  - Gerbers: false
   - BOM: true
   - FW: true
   - Docs: false

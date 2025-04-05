@@ -11,7 +11,8 @@ description: "FM synthesizer closely modeled on the famous DX7"
 ata-rating: 5
 artifacts:
   - Schematic: true
-  - PCB: false
+  - PCB source: false
+  - Gerbers: false
   - BOM: true
   - FW: true
   - Docs: true
