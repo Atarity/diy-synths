@@ -27,6 +27,7 @@ your building experience.
 1. [Hog](https://github.com/shmoergh/hog/) — Double-voice analog monophonic synthesizer with two oscillators
 1. [Hypjolin](https://github.com/triglav-modular/Hypjolin) — Cross-modulating ultra-chaos generator
 1. [Kastle](https://github.com/bastl-instruments/kastle) — Lo-fi, pocketable modular synth
+1. [Keep](https://github.com/poetaster/keep) — Self-modulating analog synth based on the ancient XR 2206 IC
 1. [Kelpie](https://github.com/friedpies/kelpie-pocket-synth) — Portable polyphonic digital synthesizer
 1. [LMN-3](https://github.com/FundamentalFrequency) — OP-1 inspired DAW-in-a-box
 1. [Le Strum](https://github.com/hotchk155/Voici-Le-Strum) — Compact and simple yet funny MIDI strummer
@@ -74,6 +75,7 @@ your building experience.
 1. [Shruthi](https://mutable-instruments.net/archive/shruthi/build/) — Hybrid synth with digital generators and swappable analog filter boards
 1. [Sound Lab Mini-Synth MkII](https://musicfromouterspace.com/index.php?CATPARTNO=SLMSMARKIIPCB&PROJARG=SOUNDLABMINIMARKII/page1.php&MAINTAB=SYNTHDIY&SONGID=NONE&VPW=1071&VPH=1229) — Full analog descendant of Sound Lab Mini-Synth
 1. [Sound Lab Mini-Synth](https://musicfromouterspace.com/index.php?CATPARTNO=PCBMFSLMS&PROJARG=SOUNDLABMINISYNTH/page1.html&MAINTAB=SYNTHDIY&SONGID=NONE&VPW=1071&VPH=1229) — Full analog legendary MFOS design
+1. [Spires](https://github.com/poetaster/spires) — Laser arpeggiator
 1. [Teensy Audio FX](https://github.com/mattvenn/teensy-audio-fx) — Playable effects modeled on the Teenage Engineering PO series
 1. [Teensy Beats Shield](https://github.com/trailhead/teensy-beats) — Handheld audio sequencer in PO style
 1. [Totoro](https://github.com/Atarity/totoro-synth) — Cheap and easy to solder 2 oscillators synth on single IC
