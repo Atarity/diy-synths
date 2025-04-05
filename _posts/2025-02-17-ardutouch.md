@@ -8,7 +8,7 @@ link: https://github.com/maltman23/ArduTouch/tree/master
 demo: https://www.youtube.com/watch?v=77Z3uCmT7yM
 pic: ../pics/ardutouch.jpg
 description: "Arduino-compatible music synthesizer"
-ata-rating: 5
+ata-rating: 4
 artifacts:
   - Schematic: true
   - PCB: true
@@ -17,7 +17,7 @@ artifacts:
   - Docs: true
   - Enclosure: false
 tags: [Digital,Monophonic,Arduino,Kit]
-level: Newbe
+level: Beginner
 ---
 
 ArduTouch is really just an Arduino Uno clone with a small amplifier & speaker, with a PCB touch keyboard, a couple of extra buttons, and a couple of pots for playing music and controlling the sounds. The ArduTouch Arduino Library is where the real magic comes from!

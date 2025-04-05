@@ -78,7 +78,7 @@ your building experience.
 1. [Totoro](https://github.com/Atarity/totoro-synth) — Cheap and easy to solder 2 oscillators synth on single IC
 1. [WTPA2 (Where is the party at 2)](http://blog.narrat1ve.com/wtpa2/) — 8-bit audio sampler kit
 1. [Wee Noise Maker](https://hackaday.io/project/19326-wee-noise-maker) — Pocket size sampler/sequencer with DAC, headphone amplifier and audio input
-1. [Wirehead Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) — Dual-voice, 2 operator, 8-bit FM Arduino synth in Volca form-factor
+1. [Wirehead Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) — Dual-voice, 2 operator, 8-bit FM synth in Volca form-factor
 1. [Wirehead Mutant](https://github.com/Meebleeps/MeeBleeps-Mutant-Synth) — 8-bit, 2-oscillator subtractive Arduino synth for generative techno in Volca form-factor
 1. [YM2149 Synth](https://github.com/trash80/Ym2149Synth) — Little chip that was used in various retro arcade machines and consoles now ready to serve
 1. [Yowler](https://github.com/cfoge/the_Yowler) — Compact and versatile noise/drone synth
@@ -87,4 +87,4 @@ your building experience.
 1. [Zynthian](https://zynthian.org/) — Open platform for sound synthesis & processing
 1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 synthesizer, with fully functional sequencer
 
-> upd: 2025-04-04
+> upd: 2025-04-05

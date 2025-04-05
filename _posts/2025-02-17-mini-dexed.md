@@ -17,7 +17,7 @@ artifacts:
   - Docs: true
   - Enclosure: true
 tags: [Digital,Raspberry,MIDI,FM]
-level: Newbe
+level: Beginner
 ---
 
 MiniDexed is a FM synthesizer closely modeled on the famous Yamaha DX7 running on a bare metal Raspberry Pi (without a Linux kernel or operating system). On Raspberry Pi 2 and newer, it can run 8 tone generators, not unlike the TX816/TX802. It is 8 DX7 instances without a keyboard in one box.

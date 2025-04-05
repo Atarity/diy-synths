@@ -8,7 +8,7 @@ link: https://github.com/bjc01/D-D_Teensy
 demo: https://www.youtube.com/watch?v=_x35PZHW8Zg
 pic: ../pics/drone--drama.jpg
 description: "Simple Teensy-based drone synth"
-ata-rating: 5
+ata-rating: 2
 artifacts:
   - Schematic: true
   - PCB: false

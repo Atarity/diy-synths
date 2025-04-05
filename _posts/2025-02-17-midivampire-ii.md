@@ -8,7 +8,7 @@ link: http://www.openmusiclabs.com/projects/midivamp2/index.html
 demo: https://www.youtube.com/watch?v=oQt7cyDuBHY
 pic: ../pics/midivampire.jpg
 description: "4 voice drum machine that is powered from the MIDI data line"
-ata-rating: 5
+ata-rating: 4
 artifacts:
   - Schematic: true
   - PCB: true

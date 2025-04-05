@@ -8,7 +8,7 @@ link: https://github.com/buranelectrix/lunchbeat-PCB
 demo: https://www.youtube.com/watch?v=9ZvAgihcfdg
 pic: ../pics/lunchbeat.jpg
 description: "1-bit percussion sounds and a sequencer"
-ata-rating: 5
+ata-rating: 3
 artifacts:
   - Schematic: true
   - PCB: true
@@ -17,7 +17,7 @@ artifacts:
   - Docs: false
   - Enclosure: false
 tags: [Drum,Digital,Sequencer]
-level: Newbe
+level: Beginner
 ---
 
 The grittiest drum machine ever.

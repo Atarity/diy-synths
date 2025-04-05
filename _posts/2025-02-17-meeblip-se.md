@@ -17,7 +17,7 @@ artifacts:
   - Docs: true
   - Enclosure: false
 tags: [Monophonic,Digital,AVR,MIDI]
-level: Newbe
+level: Beginner
 ---
 
 Very same synth as [Meeblip Micro](/synths/meeblip-micro), but with knobs and switches. Same ASM firmware, same architecture, better UX.

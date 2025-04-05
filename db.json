@@ -12,6 +12,7 @@ layout: none
         "demo":{{- item.demo | jsonify }},
         "picture":{{- item.pic | jsonify }},
         "description":{{- item.description | jsonify }},
+        "ata-rating":{{- item.ata-rating | jsonify }},
         "artifacts":{{- item.artifacts | jsonify }},
         "tags":{{- item.tags | jsonify }},
         "level":{{- item.level | jsonify }}

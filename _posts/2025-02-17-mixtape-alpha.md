@@ -8,7 +8,7 @@ link: http://wiki.openmusiclabs.com/wiki/MixtapeAlpha
 demo: https://www.youtube.com/watch?v=TBudhbE61U4
 pic: ../pics/mixtape-alpha.jpg
 description: "Credit-card sized ATmega328 4 voice synth"
-ata-rating: 5
+ata-rating: 2
 artifacts:
   - Schematic: true
   - PCB: true

@@ -8,7 +8,7 @@ link: https://github.com/MattKuebrich/roundabout
 demo: https://www.youtube.com/watch?v=ydb6eBDvvTU
 pic: ../pics/roundabout.jpg
 description: "Compact, CMOS-based, patchable synth"
-ata-rating: 5
+ata-rating: 4
 artifacts:
   - Schematic: true
   - PCB: true

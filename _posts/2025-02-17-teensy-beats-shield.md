@@ -8,7 +8,7 @@ link: https://github.com/trailhead/teensy-beats
 demo: https://www.youtube.com/watch?v=HSS_-nJva-s
 pic: ../pics/teensy-beats-shield.jpg
 description: "Handheld audio sequencer in PO style"
-ata-rating: 5
+ata-rating: 3
 artifacts:
   - Schematic: true
   - PCB: true

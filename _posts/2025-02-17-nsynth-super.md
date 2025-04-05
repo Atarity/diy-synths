@@ -8,7 +8,7 @@ link: https://github.com/googlecreativelab/open-nsynth-super
 demo: https://www.youtube.com/watch?v=oJtnn1Gqx9I
 pic: ../pics/nsynth-super.jpg
 description: "An experimental physical interface for the NSynth AI algorithm"
-ata-rating: 5
+ata-rating: 2
 artifacts:
   - Schematic: true
   - PCB: true

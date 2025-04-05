@@ -28,6 +28,9 @@ Projects below were checked by me, but wasn't published (probably, temporary) by
 1. [ItsyBitsy M0 Synth (Sigma-6 voice module)](https://www.mjbauer.biz/Sigma6_M0_synth_weblog.htm)
     - 2025-03-30: No demo published yet. No standalone implementation. Adafruit ATSAMD devboard with no EoL.
     - alive: 6d
+1. [Ksoloti family](https://ksoloti.github.io/5-resources.html)
+    - 2025-04-05: No main PCB source or gerbers.
+    - alive: 1d
 
 ## To check
 1. [~~SynthCard by Benji~~](https://benjiaomodular.com/post/2022-11-26-synthcard/)
@@ -42,6 +45,8 @@ Projects below were checked by me, but wasn't published (probably, temporary) by
     - 2025-03-30: [Added](/synths/grandbot)
 1. [~~Oskitone Scout~~](https://github.com/oskitone/scout)
     - 2025-03-30: Added as additional link to [POLY555](/synths/poly555)
+1. [Stylish Trucker Belt](https://github.com/softegg/Stylish-Trucker-Belt-Synthesizer)
+    - [Vectorsope](https://github.com/softegg/Vectorscope-Synth)
 
 ## Worth to mention
 1. [Dart One MIDI controller](https://dartmobo.com/dart-one-arduino-open-controller-arcade/)

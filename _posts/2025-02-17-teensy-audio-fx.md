@@ -8,7 +8,7 @@ link: https://github.com/mattvenn/teensy-audio-fx
 demo: https://www.youtube.com/watch?v=zHr6EKKnGfY
 pic: ../pics/teensy-audio-fx.jpg
 description: "Playable effects modeled on the Teenage Engineering PO series"
-ata-rating: 5
+ata-rating: 3
 artifacts:
   - Schematic: true
   - PCB: true

@@ -51,7 +51,7 @@ header.sticky {
 }
 
 .jlist-wrap input.searchbox {
-    background-color: rgb(244,244,245);
+    background-color: var(--accent-color);
     border: 1px solid;
     border-radius: .125rem;
     padding: 0 5px;
@@ -61,6 +61,10 @@ header.sticky {
     height: 30px;
     flex: 0 1 13.5rem;
     min-width: 8rem;
+}
+
+.jlist-wrap input.searchbox:placeholder-shown {
+    background-color: rgb(244,244,245);;
 }
 
 .jlist-wrap aside {
@@ -365,6 +369,7 @@ header.sticky {
     margin: 0;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     gap: 10px;
 }
 

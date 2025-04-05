@@ -8,7 +8,7 @@ link: https://github.com/gligli/overcycler
 demo: https://www.youtube.com/watch?v=tudcgLfHdeE
 pic: ../pics/overcycler.jpg
 description: "Polyphonic hybrid single cycle / analog synthesizer"
-ata-rating: 5
+ata-rating: 4
 artifacts:
   - Schematic: true
   - PCB: true

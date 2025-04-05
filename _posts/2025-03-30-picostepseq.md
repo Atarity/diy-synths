@@ -8,7 +8,7 @@ link: https://github.com/todbot/picostepseq
 demo: https://www.youtube.com/watch?v=jm5V9wdTMXQ
 pic: ../pics/picostepseq.jpg
 description: "8-step MIDI sequencer"
-ata-rating: 5
+ata-rating: 4
 artifacts:
   - Schematic: true
   - PCB: true

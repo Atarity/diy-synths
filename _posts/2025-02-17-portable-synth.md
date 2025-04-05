@@ -8,7 +8,7 @@ link: https://github.com/prajwal1121/Portable-Synth
 demo: https://www.youtube.com/watch?v=yj9AeDa9qw8
 pic: ../pics/portable-synth.jpg
 description: "OP-1 style portable groovebox based on Teensy 4"
-ata-rating: 5
+ata-rating: 3
 artifacts:
   - Schematic: true
   - PCB: true

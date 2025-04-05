@@ -8,7 +8,7 @@ link: https://github.com/NANOmodules/NANO-Minipops
 demo: https://www.youtube.com/watch?v=RJu-DWOXwls
 pic: ../pics/nano-minipops.jpeg
 description: "Korg Minipops drum machine made around Arduino"
-ata-rating: 5
+ata-rating: 3
 artifacts:
   - Schematic: true
   - PCB: true

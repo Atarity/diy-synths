@@ -8,7 +8,7 @@ link: https://www.breadmodular.com/
 demo: https://www.youtube.com/watch?v=nc6rdGs08YQ
 pic: ../pics/bread-modular.jpg
 description: "Affordable, compact modular synth platform"
-ata-rating: 5
+ata-rating: 4
 artifacts:
   - Schematic: true
   - PCB: true

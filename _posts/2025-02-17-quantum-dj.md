@@ -17,7 +17,7 @@ artifacts:
   - Docs: false
   - Enclosure: false
 tags: [Monophonic,Digital]
-level: Newbe
+level: Beginner
 ---
 
 Quantum DJ is an electronic creature that listens to the electromagnetic noise around us, analyzes it and generates some sort of 1-bit sound art depending on its internal state or mood.

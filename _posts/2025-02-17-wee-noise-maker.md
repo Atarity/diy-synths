@@ -8,7 +8,7 @@ link: https://hackaday.io/project/19326-wee-noise-maker
 demo: https://www.youtube.com/watch?v=fAjKelBxt00
 pic: ../pics/wee-noise-maker.jpg
 description: "Pocket size sampler/sequencer with DAC, headphone amplifier and audio input"
-ata-rating: 5
+ata-rating: 3
 artifacts:
   - Schematic: true
   - PCB: true

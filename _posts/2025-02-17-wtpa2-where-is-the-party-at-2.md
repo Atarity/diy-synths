@@ -8,7 +8,7 @@ link: http://blog.narrat1ve.com/wtpa2/
 demo: https://www.youtube.com/watch?v=pAaV_6Hzd2I
 pic: ../pics/wtpa2-where-is-the-party-at-2.jpg
 description: "8-bit audio sampler kit"
-ata-rating: 5
+ata-rating: 2
 artifacts:
   - Schematic: true
   - PCB: true

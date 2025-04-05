@@ -8,7 +8,7 @@ link: https://github.com/ghztomash/fasma_drum
 demo: https://www.youtube.com/watch?v=E9JRIe1dBe0
 pic: ../pics/fasma-festival.jpg
 description: "Yet another Teensy drum machine with clock sync"
-ata-rating: 5
+ata-rating: 3
 artifacts:
   - Schematic: true
   - PCB: false

@@ -8,7 +8,7 @@ link: https://paperpcb.dernulleffekt.de/doku.php?id=paper_bits:paper_bits_main
 demo: https://www.youtube.com/watch?v=4CEhR68YwA8
 pic: ../pics/paper-bits.jpg
 description: "Small, modular synthesizer system. Voltage controlled, stripboard compatible."
-ata-rating: 5
+ata-rating: 4
 artifacts:
   - Schematic: true
   - PCB: false
