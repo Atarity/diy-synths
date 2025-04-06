@@ -43,7 +43,6 @@ your building experience.
 1. [Mini Dexed](https://github.com/probonopd/MiniDexed) — FM synthesizer closely modeled on the famous DX7
 1. [MiniMO](https://github.com/enveloop/miniMO) — ATtiny85 mini modular system
 1. [Mixtape Alpha](http://wiki.openmusiclabs.com/wiki/MixtapeAlpha) — Credit-card sized ATmega328 4 voice synth
-1. [Mozard](https://github.com/thomasfredericks/Mozard) — Arduino, Mozzi -based, 6 engines synth
 1. [Mushsynth-8](https://oshwlab.com/eugeniy.carlo/touchdrone_copy_copy_copy_copy) — 8-voice polyphonic drone synth with a touch keyboard
 1. [N32B](https://github.com/Shik-Tech/N32B) — Hi-res macro MIDI controller
 1. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) — An experimental physical interface for the NSynth AI algorithm
