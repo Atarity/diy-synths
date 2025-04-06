@@ -47,6 +47,10 @@ Projects below were checked by me, but wasn't published (probably, temporary) by
     - 2025-03-30: Added as additional link to [POLY555](/synths/poly555)
 1. [Stylish Trucker Belt](https://github.com/softegg/Stylish-Trucker-Belt-Synthesizer)
     - [Vectorsope](https://github.com/softegg/Vectorscope-Synth)
+1. [Wee Noise Maker](/synths/wee-noise-maker)
+    - Can't find PCB info anymore
+1. [Zynthian](/synths/zynthian)
+    - Can't find PCB info anymore
 
 ## Worth to mention
 1. [Dart One MIDI controller](https://dartmobo.com/dart-one-arduino-open-controller-arcade/)
