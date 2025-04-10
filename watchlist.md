@@ -31,6 +31,9 @@ Projects below were checked by me, but wasn't published (probably, temporary) by
 1. [Ksoloti family](https://ksoloti.github.io/5-resources.html)
     - 2025-04-05: No main PCB source or gerbers.
     - alive: 1d
+1. [bebe](https://github.com/pangrus/bebe)
+    - 2025-04-10: No video demo
+    - alive: 5y
 
 ## To check
 1. [~~SynthCard by Benji~~](https://benjiaomodular.com/post/2022-11-26-synthcard/)

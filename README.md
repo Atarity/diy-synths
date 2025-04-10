@@ -24,6 +24,7 @@ your building experience.
 1. [Fasma Festival](https://github.com/ghztomash/fasma_drum) — Yet another Teensy drum machine with clock sync
 1. [Flounder](https://github.com/MattKuebrich/flounder) — Teensy based USB midi keyboard + controls + stereo audio
 1. [Grandbot](https://github.com/handeyeco/Grandbot) — Generative, pattern-based MIDI arpeggiator
+1. [Hidden Sound Explorer](https://github.com/pangrus/HSE-Hidden_Sound_Explorer) — Electromagnetic fields analog transducer
 1. [Hog](https://github.com/shmoergh/hog/) — Double-voice analog monophonic synthesizer with two oscillators
 1. [Hypjolin](https://github.com/triglav-modular/Hypjolin) — Cross-modulating ultra-chaos generator
 1. [Kastle](https://github.com/bastl-instruments/kastle) — Lo-fi, pocketable modular synth
