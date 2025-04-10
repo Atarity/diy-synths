@@ -56,3 +56,4 @@ Projects below were checked by me, but wasn't published (probably, temporary) by
 1. [Dart One MIDI controller](https://dartmobo.com/dart-one-arduino-open-controller-arcade/)
 1. [CureMIDI 8 in 8 out interface](https://github.com/keshikan/CureMIDI8)
 1. [D9X MIDI drawbar controller](https://github.com/ZioGuido/GMLAB_D9X/tree/master)
+1.[Zoxnoxious: Flexible digital orchestrator for analog voicecards](https://github.com/brer-rabbit/zoxnoxious/)

@@ -33,7 +33,7 @@ The minimum criteria for adding to the database are:
 - Eurorack modules. Eurorack are a bottomless rabbit hole, and maintaining such a massive list would take a lot of time.
 - Hardware "platforms" with no physical interfaces but with tons of software tools to do smth fun.
 - "Buy 10 modules on Aliexpress and connect with breadboard" designs. Using noname modules with no declared EoL might be good for prototyping, but not for open designs. I see low value in such a designs even if they packed with a great software.
-- Projects with no PCB layout source, and no Gerbers published. It is not meaning they'll be declined immediately, but c'mon: that is not how to cook open-source hardware.
+- Projects with no PCB layout source **and** with no Gerbers published at a same time. It is not meaning they'll be declined immediately, but c'mon: that is not how to cook open-source hardware.
 
 ✅ Hell YES:
 - "Everything in one GitHub repo" projects. Files telling more than fancy websites.
