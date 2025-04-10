@@ -54,6 +54,7 @@ your building experience.
 1. [NoiseLab](https://oshwlab.com/eugeniy.carlo/noisebox-1-0_copy) — Analog noise synthesizer
 1. [Norns shield](https://github.com/monome/norns-shield) — Dynamic instrument, creation platform and musical computer 
 1. [Nyblcore](https://github.com/schollz/nyblcore) — Tiny ATtiny85-based sample player device
+1. [OP-Synth](https://github.com/thomasfredericks/Op-Synth) — Modular micro analog synth
 1. [OTTO](https://github.com/bitfieldaudio/OTTO) — Digital groovebox with synths, looper, samplers, effects and a sequencer
 1. [OpenDeck](https://github.com/shanteacontrols/OpenDeck) — Platform for ultimate MIDI control deck building
 1. [Ottopot](https://gerotakke.de/ottopot/) — Hi-res USB-MIDI controller
