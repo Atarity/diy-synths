@@ -44,6 +44,7 @@ your building experience.
 1. [MiniMO](https://github.com/enveloop/miniMO) — ATtiny85 mini modular system
 1. [Mixtape Alpha](http://wiki.openmusiclabs.com/wiki/MixtapeAlpha) — Credit-card sized ATmega328 4 voice synth
 1. [Mozard](https://github.com/thomasfredericks/Mozard) — Arduino, Mozzi -based, 6 engines synth
+1. [Multi](https://github.com/pangrus/multi/) — Generative sequencer with swappable synth engines
 1. [Mushsynth-8](https://oshwlab.com/eugeniy.carlo/touchdrone_copy_copy_copy_copy) — 8-voice polyphonic drone synth with a touch keyboard
 1. [N32B](https://github.com/Shik-Tech/N32B) — Hi-res macro MIDI controller
 1. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) — An experimental physical interface for the NSynth AI algorithm
@@ -67,7 +68,7 @@ your building experience.
 1. [Polykit X1](https://github.com/polykit/polykit-x-monosynth) — Full analog, semi modular synthesizer
 1. [Portable synth](https://github.com/prajwal1121/Portable-Synth) — OP-1 style portable groovebox based on Teensy 4
 1. [PreenFM 2](https://github.com/Ixox/preenfm2) — Beloved old FM synthesis in small, modern DIY box
-1. [Protean](https://github.com/pangrus/Protean) — ATtiny-based motion texture source
+1. [Protean](https://github.com/pangrus/Protean) — CMOS-based motion texture source
 1. [Quantum DJ](https://warmplace.ru/hard/qdj/?fbclid=IwAR3kJHlGsxXUGChfXL_qjapHxT5TMV6Du6AfpE0VJ6x5OJzYAFS-qSvjPYk) — Electromagnetic noise to 1-bit sound converter
 1. [Real SID shield](https://github.com/emceha/RealSIDShield) — Digital interface to SID chip of Commodore 64
 1. [Roundabout](https://github.com/MattKuebrich/roundabout) — Compact, CMOS-based, patchable synth
@@ -91,4 +92,4 @@ your building experience.
 1. [Zynthian](https://zynthian.org/) — Open platform for sound synthesis & processing
 1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 synthesizer, with fully functional sequencer
 
-> upd: 2025-04-06
+> upd: 2025-04-10

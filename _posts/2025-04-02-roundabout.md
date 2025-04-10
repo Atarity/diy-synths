@@ -17,7 +17,7 @@ artifacts:
   - FW: false
   - Docs: false
   - Enclosure: false
-tags: [Analog,Monophonic]
+tags: [Analog,Monophonic,CMOS]
 level: Intermediate
 ---
 
