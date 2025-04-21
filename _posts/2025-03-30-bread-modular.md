@@ -17,7 +17,7 @@ artifacts:
   - FW: true
   - Docs: true
   - Enclosure: true
-tags: [MIDI,Kit,Modular,Digital]
+tags: [MIDI,Kit,Modular,Digital,Analog]
 level: Intermediate
 ---
 

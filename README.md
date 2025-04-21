@@ -77,6 +77,7 @@ your building experience.
 1. [S54 Liv's Synth](https://github.com/SloBloLabs/LivSynth) — Hybrid mono synth with full analogue signal path
 1. [SC1000](https://github.com/rasteri/SC1000/tree/master) — Portable digital scratch instrument
 1. [Shruthi](https://mutable-instruments.net/archive/shruthi/build/) — Hybrid synth with digital generators and swappable analog filter boards
+1. [Sigma-6](https://www.mjbauer.biz/Sigma6_M0_synth_weblog.htm) — Low-cost digital mono-synth
 1. [Sound Lab Mini-Synth MkII](https://musicfromouterspace.com/index.php?CATPARTNO=SLMSMARKIIPCB&PROJARG=SOUNDLABMINIMARKII/page1.php&MAINTAB=SYNTHDIY&SONGID=NONE&VPW=1071&VPH=1229) — Full analog descendant of Sound Lab Mini-Synth
 1. [Sound Lab Mini-Synth](https://musicfromouterspace.com/index.php?CATPARTNO=PCBMFSLMS&PROJARG=SOUNDLABMINISYNTH/page1.html&MAINTAB=SYNTHDIY&SONGID=NONE&VPW=1071&VPH=1229) — Full analog legendary MFOS design
 1. [Spires](https://github.com/poetaster/spires) — Laser arpeggiator
@@ -94,4 +95,4 @@ your building experience.
 1. [Zynthian](https://zynthian.org/) — Open platform for sound synthesis & processing
 1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 synthesizer, with fully functional sequencer
 
-> upd: 2025-04-10
+> upd: 2025-04-21
