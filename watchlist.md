@@ -25,15 +25,18 @@ Projects below were checked by me, but wasn't published (probably, temporary) by
 1. [TSynth (T4.1)](https://github.com/ElectroTechnique/TSynth-Teensy4.1)
     - 2025-03-20: No main PCB source or gerbers.
     - alive: 7m
-1. [ItsyBitsy M0 Synth (Sigma-6 voice module)](https://www.mjbauer.biz/Sigma6_M0_synth_weblog.htm)
-    - 2025-03-30: No demo published yet. No standalone implementation. Adafruit ATSAMD devboard with no EoL.
-    - alive: 6d
 1. [Ksoloti family](https://ksoloti.github.io/5-resources.html)
     - 2025-04-05: No main PCB source or gerbers.
     - alive: 1d
 1. [bebe](https://github.com/pangrus/bebe)
     - 2025-04-10: No video demo
     - alive: 5y
+1. [ZicBox](https://github.com/apiel/zicBox)
+    - 2025-09-20: No-name modules in the HW design
+    - alive: 2d
+1. [Gizmo](https://cs.gmu.edu/~sean/projects/gizmo/)
+    - 2025-09-20: HW is a building blocks (Sparkfun, Adafruit). No schematics, wiring diagrams, etc.
+    - alive: 1y
 
 ## To check
 1. [~~SynthCard by Benji~~](https://benjiaomodular.com/post/2022-11-26-synthcard/)
@@ -48,6 +51,8 @@ Projects below were checked by me, but wasn't published (probably, temporary) by
     - 2025-03-30: [Added](/synths/grandbot)
 1. [~~Oskitone Scout~~](https://github.com/oskitone/scout)
     - 2025-03-30: Added as additional link to [POLY555](/synths/poly555)
+1. [~~ItsyBitsy M0 Synth (Sigma-6 voice module)~~](https://www.mjbauer.biz/Sigma6_M0_synth_weblog.htm)
+    - 2025-04-21 : [Added as Sigma6](/synths/sigma6)
 1. [Stylish Trucker Belt](https://github.com/softegg/Stylish-Trucker-Belt-Synthesizer)
     - [Vectorsope](https://github.com/softegg/Vectorscope-Synth)
 1. [Wee Noise Maker](/synths/wee-noise-maker)
