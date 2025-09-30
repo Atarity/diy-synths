@@ -723,7 +723,7 @@ class JList {
 		});
 
 
-		// Group by ata-rating (desc), shuffle within each rating group
+		// Stable randomized ordering per current filter
 		function shuffle(arr) {
 			for (let i = arr.length - 1; i > 0; i--) {
 				const j = Math.floor(Math.random() * (i + 1));
@@ -734,20 +734,39 @@ class JList {
 			return arr;
 		}
 
-		const ratingToItems = {};
-		for (let i = 0; i < filteredData.length; i++) {
-			const item = filteredData[i];
-			const rating = Number(item["ata-rating"]) || 0;
-			if (!ratingToItems[rating]) { ratingToItems[rating] = []; }
-			ratingToItems[rating].push(item);
-		}
+		// Build cache key for current filter
+		const cacheKey = JSON.stringify(filter);
 
-		const ratingsDesc = Object.keys(ratingToItems).map(Number).sort((a, b) => b - a);
-		const sortedData = [];
-		for (let r = 0; r < ratingsDesc.length; r++) {
-			const key = ratingsDesc[r];
-			const group = ratingToItems[key];
-			sortedData.push(...shuffle(group));
+		let sortedData = [];
+		if (this._sortedCacheKey === cacheKey && Array.isArray(this._sortedCacheIds)) {
+			// Rebuild stable order from cached IDs intersected with filtered set
+			const idToItem = {};
+			for (let i = 0; i < filteredData.length; i++) {
+				idToItem[filteredData[i].ID] = filteredData[i];
+			}
+			for (let i = 0; i < this._sortedCacheIds.length; i++) {
+				const it = idToItem[this._sortedCacheIds[i]];
+				if (it) { sortedData.push(it); }
+			}
+		} else {
+			// Create new randomized, rating-grouped order and cache it
+			const ratingToItems = {};
+			for (let i = 0; i < filteredData.length; i++) {
+				const item = filteredData[i];
+				const rating = Number(item["ata-rating"]) || 0;
+				if (!ratingToItems[rating]) { ratingToItems[rating] = []; }
+				ratingToItems[rating].push(item);
+			}
+
+			const ratingsDesc = Object.keys(ratingToItems).map(Number).sort((a, b) => b - a);
+			for (let r = 0; r < ratingsDesc.length; r++) {
+				const k = ratingsDesc[r];
+				const group = ratingToItems[k];
+				sortedData.push(...shuffle(group));
+			}
+
+			this._sortedCacheKey = cacheKey;
+			this._sortedCacheIds = sortedData.map(it => it.ID);
 		}
 
 
