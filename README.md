@@ -43,6 +43,7 @@ your building experience.
 1. [Mega MIDI](https://github.com/AidanHockey5/MegaMIDI) — MIDI-compatible Sega Genesis/Megadrive synthesizer with real sound chips
 1. [Mini Dexed](https://github.com/probonopd/MiniDexed) — FM synthesizer closely modeled on the famous DX7
 1. [MiniMO](https://github.com/enveloop/miniMO) — ATtiny85 mini modular system
+1. [Minichord](https://github.com/BenjaminPoilve/minichord) — Suzuki's Omnichord-like pocket instrument based on Teensy.
 1. [Mixtape Alpha](http://wiki.openmusiclabs.com/wiki/MixtapeAlpha) — Credit-card sized ATmega328 4 voice synth
 1. [Moduleur](https://github.com/shmoergh/moduleur) — Double-voice analog modular design with a touch of digital magic
 1. [Mozard](https://github.com/thomasfredericks/Mozard) — Arduino, Mozzi -based, 6 engines synth
@@ -97,4 +98,4 @@ your building experience.
 1. [Zynthian](https://zynthian.org/) — Open platform for sound synthesis & processing
 1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 synthesizer, with fully functional sequencer
 
-> upd: 2025-12-15
+> upd: 2026-04-02
