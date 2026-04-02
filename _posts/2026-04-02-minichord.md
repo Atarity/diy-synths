@@ -7,7 +7,7 @@ author: Benjamin Poilve
 link: https://github.com/BenjaminPoilve/minichord
 demo: https://www.youtube.com/watch?v=66Gu4NNnHgA
 pic: ../pics/minichord.jpg
-description: "Suzuki's Omnichord-like pocket instrument based on Teensy."
+description: "Suzuki's Omnichord-like pocket instrument based on Teensy"
 ata-rating: 4
 artifacts:
   - Schematic: true
