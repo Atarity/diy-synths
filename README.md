@@ -27,6 +27,7 @@ your building experience.
 1. [Hidden Sound Explorer](https://github.com/pangrus/HSE-Hidden_Sound_Explorer) — Electromagnetic fields analog transducer
 1. [Hog](https://github.com/shmoergh/hog/) — Double-voice analog monophonic synthesizer with two oscillators
 1. [Hypjolin](https://github.com/triglav-modular/Hypjolin) — Cross-modulating ultra-chaos generator
+1. [Kastle 2](https://github.com/bastl-instruments/kastle2) — Patchable, pocketable and open platforrm
 1. [Kastle](https://github.com/bastl-instruments/kastle) — Lo-fi, pocketable modular synth
 1. [Keep](https://github.com/poetaster/keep) — Self-modulating analog synth based on the ancient XR 2206 IC
 1. [Kelpie](https://github.com/friedpies/kelpie-pocket-synth) — Portable polyphonic digital synthesizer
@@ -98,4 +99,4 @@ your building experience.
 1. [Zynthian](https://zynthian.org/) — Open platform for sound synthesis & processing
 1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 synthesizer, with fully functional sequencer
 
-> upd: 2026-04-02
+> upd: 2026-06-02
