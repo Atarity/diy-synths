@@ -9,6 +9,7 @@ your building experience.
 ![DIY-synths-title](/pics/meta/repo-title.jpg)
 
 1. [ATtiny Punk Console](https://github.com/noisio/ATtiny-Punk-Console) — ATtiny85 implementation of Atari Punk Console
+1. [Acid Drip](https://github.com/lonesoulsurfer/Acid_Drip_Bassline_and_Drum_Synth) — Acid bassline synth and drum machine
 1. [Aciduino](https://github.com/midilab/aciduino/tree/master/v1/) — Roland TB-303 step sequencer clone aimed for live interaction
 1. [Ambika](https://mutable-instruments.net/archive/) — Multi-voice, hybrid synthesizer. Descendant of Shruthi.
 1. [Anushri](https://mutable-instruments.net/archive/) — Analog monosynth with a lo-fi digital drums
@@ -55,6 +56,7 @@ your building experience.
 1. [NSynth Super](https://github.com/googlecreativelab/open-nsynth-super) — An experimental physical interface for the NSynth AI algorithm
 1. [NTH synth](https://github.com/NTHSynth/NTH_DSP) — 8-bit hackable mono synth
 1. [Nano minipops](https://github.com/NANOmodules/NANO-Minipops) — Korg Minipops drum machine made around Arduino
+1. [Nava](https://github.com/e-licktronic/Nava-v1.0) — Clone of Roland TR-909 drum machine
 1. [Noise Toaster](https://musicfromouterspace.com/index.php?CATPARTNO=PCBMFNTSTNONE01&PROJARG=NOISETOASTER/NOISETOASTER.php&MAINTAB=SYNTHDIY&SONGID=NONE&VPW=1331&VPH=1233) — Simple, full analog noise synth
 1. [NoiseLab](https://oshwlab.com/eugeniy.carlo/noisebox-1-0_copy) — Analog noise synthesizer
 1. [Norns shield](https://github.com/monome/norns-shield) — Dynamic instrument, creation platform and musical computer 
@@ -93,10 +95,11 @@ your building experience.
 1. [Wirehead Freaq FM](https://github.com/Meebleeps/MeeBleeps-Freaq-FM-Synth) — Dual-voice, 2 operator, 8-bit FM synth in Volca form-factor
 1. [Wirehead Mutant](https://github.com/Meebleeps/MeeBleeps-Mutant-Synth) — 8-bit, 2-oscillator subtractive Arduino synth for generative techno in Volca form-factor
 1. [YM2149 Synth](https://github.com/trash80/Ym2149Synth) — Little chip that was used in various retro arcade machines and consoles now ready to serve
+1. [Yocto](https://github.com/e-licktronic/Yocto-V2.0) — Clone of Roland TR-808 drum machine
 1. [Yowler](https://github.com/cfoge/the_Yowler) — Compact and versatile noise/drone synth
 1. [ZeKit](https://github.com/Marzac/zekit) — 4 voice paraphonic synth
 1. [Zeptocore](https://github.com/schollz/_core) — Player and synthesizer, featuring stereo playback
 1. [Zynthian](https://zynthian.org/) — Open platform for sound synthesis & processing
 1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 synthesizer, with fully functional sequencer
 
-> upd: 2026-06-10
+> upd: 2026-06-20
