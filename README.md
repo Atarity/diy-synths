@@ -59,6 +59,7 @@ your building experience.
 1. [Nava](https://github.com/e-licktronic/Nava-v1.0) — Clone of Roland TR-909 drum machine
 1. [Noise Toaster](https://musicfromouterspace.com/index.php?CATPARTNO=PCBMFNTSTNONE01&PROJARG=NOISETOASTER/NOISETOASTER.php&MAINTAB=SYNTHDIY&SONGID=NONE&VPW=1331&VPH=1233) — Simple, full analog noise synth
 1. [NoiseLab](https://oshwlab.com/eugeniy.carlo/noisebox-1-0_copy) — Analog noise synthesizer
+1. [Noisferatu](https://github.com/rob-scape/noisferatu) — Compact, generative texture synthesizer
 1. [Norns shield](https://github.com/monome/norns-shield) — Dynamic instrument, creation platform and musical computer 
 1. [Nyblcore](https://github.com/schollz/nyblcore) — Tiny ATtiny85-based sample player device
 1. [OP-Synth](https://github.com/thomasfredericks/Op-Synth) — Modular micro analog synth
@@ -102,4 +103,4 @@ your building experience.
 1. [Zynthian](https://zynthian.org/) — Open platform for sound synthesis & processing
 1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 synthesizer, with fully functional sequencer
 
-> upd: 2026-06-20
+> upd: 2026-06-27
