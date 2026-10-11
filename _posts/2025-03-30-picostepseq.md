@@ -17,7 +17,7 @@ artifacts:
   - FW: true
   - Docs: false
   - Enclosure: true
-tags: [MIDI,PiPico,Sequencer]
+tags: [MIDI,RP2040,Sequencer]
 level: Intermediate
 ---
 

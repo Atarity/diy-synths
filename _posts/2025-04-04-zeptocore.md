@@ -17,7 +17,7 @@ artifacts:
   - FW: true
   - Docs: true
   - Enclosure: false
-tags: [Digital,PiPico,Sampler,Fx,Sequencer]
+tags: [Digital,RP2040,Sampler,Fx,Sequencer]
 level: Intermediate
 ---
 

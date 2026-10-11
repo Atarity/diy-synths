@@ -17,6 +17,7 @@ your building experience.
 1. [Arpie](https://six4pix.com/product/arpie/) — Compact, highly-functional, MIDI arpeggiator
 1. [Beam Catcher](https://github.com/uvknhn/Beam-Catcher) — Analog light-based synthesizer
 1. [Bread Modular](https://www.breadmodular.com/) — Affordable, compact modular synth platform
+1. [CHOMPI](https://github.com/CHOMPI-Club/CHOMPI) — Chromatic sampler and tape-music instrument
 1. [Coron DS7 (DS8)](http://m.bareille.free.fr/ds7clone/ds8.htm) — Percussion & drum synth
 1. [Drone & Drama](https://github.com/bjc01/D-D_Teensy) — Simple Teensy-based drone synth
 1. [DrumKid](https://github.com/mattybrad/drumkid) — Lo-fi aleatoric Arduino drum machine
@@ -103,4 +104,4 @@ your building experience.
 1. [Zynthian](https://zynthian.org/) — Open platform for sound synthesis & processing
 1. [x0xb0x](https://www.ladyada.net/make/x0xb0x/index.html) — Full reproduction of the original Roland TB-303 synthesizer, with fully functional sequencer
 
-> upd: 2026-06-27
+> upd: 2026-10-11
